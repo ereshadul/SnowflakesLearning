@@ -1,0 +1,1001 @@
+lead_id,first_name,last_name,email,phone,company,title,industry,country,lead_source,created_date,lead_score,annual_budget_usd,interested_product,status
+LEAD-00001,First1,Last1,lead1@company1.com,+1-854-214-1409,Company-1,CTO,Manufacturing,UK,Cold Call,2025-01-14,95,,Platform License,CONVERTED
+LEAD-00002,First2,Last2,lead2@company2.com,+1-632-132-1488,Company-2,Manager,Energy,United States,Trade Show,2024-04-11,12,,Security Package,CONTACTED
+LEAD-00003,First3,Last3,lead3@company3.com,+1-659-703-5557,Company-3,CFO,Finance,Germany,Email Campaign,2025-05-05,1,-999,Data Integration Suite,NEW
+LEAD-00004,First4,Last4,lead4@company4.com,+1-294-489-2584,Company-4,,Technology,,Trade Show,2024-03-04,46,0,Security Package,NEW
+LEAD-00005,First5,Last5,lead5@company5.com,+1-765-400-6925,Company-5,VP Sales,Retail,Canada,Partner,2024-05-28,74,1623033,Platform License,CONTACTED
+LEAD-00006,First6,Last6,lead6@company6.com,+1-303-489-5554,Company-6,CFO,Finance,Canada,Cold Call,2024-05-16,59,,Platform License,CONVERTED
+LEAD-00007,First7,Last7,lead7@company7.com,+1-850-275-9751,Company-7,Director IT,Healthcare,Australia,Cold Call,2024-12-18,94,,Analytics Module,
+LEAD-00008,First8,Last8,lead8@company8.com,+1-532-963-1916,Company-8,,Finance,Japan,LinkedIn,2024-02-03,,1931394,Analytics Module,CONVERTED
+LEAD-00009,First9,Last9,lead9@company9.com,+1-935-422-4483,Company-9,CEO,Healthcare,Germany,LinkedIn,2024-03-12,84,-999,Analytics Module,
+LEAD-00010,First10,Last10,lead10@company10.com,,Company-10,CEO,Energy,Japan,Trade Show,2024-07-23,72,0,Data Integration Suite,CONTACTED
+LEAD-00011,First11,Last11,lead11@company11.com,+1-341-621-9085,Company-11,CTO,Retail,Germany,Partner,2024-12-14,12,405240,Security Package,CONVERTED
+LEAD-00012,First12,Last12,lead12@company12.com,+1-265-494-7252,Company-12,Manager,Logistics,United States,Cold Call,2025-01-04,77,0,Platform License,
+LEAD-00013,First13,Last13,lead13@company13.com,+1-749-868-5371,Company-13,CFO,Healthcare,Germany,Referral,2024-01-02,99,2863598,Data Integration Suite,CONVERTED
+LEAD-00014,First14,Last14,lead14@company14.com,+1-980-282-9317,Company-14,CTO,Finance,Germany,Trade Show,2025-05-03,14,,Platform License,CONVERTED
+LEAD-00015,First15,Last15,,+1-531-600-1319,Company-15,CTO,Technology,Canada,Trade Show,2025-04-29,15,0,Platform License,NEW
+LEAD-00016,First16,Last16,lead16@company16.com,+1-949-597-2133,Company-16,CTO,Retail,,Trade Show,2024-03-25,HIGH,,Data Integration Suite,CONVERTED
+LEAD-00017,First17,Last17,lead17@company17.com,+1-821-533-4470,Company-17,Director IT,Retail,US,LinkedIn,2024-08-12,70,0,Security Package,NEW
+LEAD-00018,First18,Last18,lead18@company18.com,+1-453-330-2049,Company-18,Manager,Manufacturing,United States,Web,2024-12-28,44,,Platform License,CONTACTED
+LEAD-00019,First19,Last19,lead19@company19.com,+1-269-132-6413,Company-19,CFO,Retail,,Email Campaign,2024-10-03,10,,Analytics Module,
+LEAD-00020,First20,Last20,lead20@company20.com,,Company-20,CTO,Logistics,,Partner,7/7/2024,74,-999,Platform License,NEW
+LEAD-00021,First21,Last21,lead21@company21.com,+1-874-541-6804,Company-21,,Retail,United States,Cold Call,2024-11-30,55,-999,Platform License,NEW
+LEAD-00022,First22,Last22,lead22@company22.com,+1-612-845-6559,Company-22,CTO,Energy,,Email Campaign,2024-08-04,14,,Analytics Module,QUALIFIED
+LEAD-00023,First23,Last23,lead23@company23.com,+1-673-355-2235,Company-23,VP Sales,Retail,UNKNOWN,Partner,2024-01-08,57,4626463,Platform License,CONTACTED
+LEAD-00024,First24,Last24,lead24@company24.com,+1-370-516-8956,Company-24,,Healthcare,United States,Email Campaign,2024-07-13,,,Platform License,DISQUALIFIED
+LEAD-00025,First25,Last25,lead25@company25.com,+1-471-902-8454,Company-25,CTO,Manufacturing,Australia,Email Campaign,2025-05-10,37,-999,Platform License,CONVERTED
+LEAD-00026,First26,Last26,lead26@company26.com,+1-953-655-1998,Company-26,VP Sales,Energy,,Trade Show,2025-04-15,96,2640707,Analytics Module,NEW
+LEAD-00027,First27,Last27,lead27@company27.com,+1-720-182-4044,Company-27,Director IT,Technology,usa,Email Campaign,2024-10-23,9,,Platform License,CONVERTED
+LEAD-00028,First28,Last28,lead28@company28.com,+1-283-529-9565,Company-28,CEO,Retail,India,Email Campaign,2024-05-15,41,,Security Package,CONTACTED
+LEAD-00029,First29,Last29,lead29@company29.com,+1-887-760-5915,Company-29,VP Sales,Healthcare,usa,Trade Show,2024-02-21,59,2662286,Platform License,CONVERTED
+LEAD-00030,First30,Last30,INVALID_EMAIL,,Company-30,CTO,Finance,UK,Email Campaign,2024-07-08,28,0,Data Integration Suite,CONTACTED
+LEAD-00031,First31,Last31,lead31@company31.com,+1-648-953-9900,Company-31,CEO,Logistics,UNKNOWN,LinkedIn,2025-04-22,91,2547697,Platform License,CONTACTED
+LEAD-00032,First32,Last32,lead32@company32.com,+1-470-218-2753,Company-32,CFO,Finance,usa,Email Campaign,2025-01-02,HIGH,,Data Integration Suite,CONTACTED
+LEAD-00033,First33,Last33,lead33@company33.com,+1-903-749-5325,Company-33,,Technology,UK,Cold Call,2024-08-04,65,0,Data Integration Suite,NEW
+LEAD-00034,First34,Last34,lead34@company34.com,+1-203-441-3143,Company-34,CEO,Healthcare,UNKNOWN,Cold Call,2024-08-06,82,,Platform License,NEW
+LEAD-00035,First35,Last35,lead35@company35.com,+1-277-807-3442,Company-35,Manager,Energy,Germany,Referral,2024-03-06,70,0,Platform License,QUALIFIED
+LEAD-00036,First36,Last36,lead36@company36.com,+1-573-915-1653,Company-36,CEO,Technology,India,Partner,2024-10-13,46,,Security Package,CONVERTED
+LEAD-00037,First37,Last37,lead37@company37.com,+1-967-258-4878,Company-37,VP Sales,Manufacturing,India,Partner,2025-04-21,21,-999,Security Package,
+LEAD-00038,First38,Last38,lead38@company38.com,+1-952-930-5065,Company-38,Director IT,Logistics,United States,Partner,2024-08-28,35,1345448,Analytics Module,CONTACTED
+LEAD-00039,First39,Last39,lead39@company39.com,+1-671-458-6000,Company-39,CEO,Manufacturing,Japan,LinkedIn,2024-05-22,30,1880018,Platform License,QUALIFIED
+LEAD-00040,First40,Last40,lead40@company40.com,,Company-40,CEO,Logistics,UNKNOWN,LinkedIn,1/4/2024,,-999,Data Integration Suite,CONTACTED
+LEAD-00041,First41,Last41,lead41@company41.com,+1-794-371-1626,Company-41,CEO,Logistics,India,Referral,2024-11-06,14,0,Platform License,DISQUALIFIED
+LEAD-00042,First42,Last42,lead42@company42.com,+1-790-294-5173,Company-42,Manager,Logistics,UNKNOWN,Cold Call,2025-01-03,6,3667915,Analytics Module,QUALIFIED
+LEAD-00043,First43,Last43,lead43@company43.com,+1-641-171-6409,Company-43,CEO,Finance,UNKNOWN,LinkedIn,2024-12-07,80,2643315,Security Package,QUALIFIED
+LEAD-00044,First44,Last44,lead44@company44.com,+1-612-813-5844,Company-44,Director IT,Retail,Japan,Cold Call,2025-01-18,71,,Analytics Module,CONVERTED
+LEAD-00045,First45,Last45,,+1-782-408-7653,Company-45,CFO,Manufacturing,Japan,Partner,2024-10-23,71,0,Data Integration Suite,DISQUALIFIED
+LEAD-00046,First46,Last46,lead46@company46.com,+1-652-552-4501,Company-46,CEO,Technology,Australia,Trade Show,2024-12-05,66,,Data Integration Suite,NEW
+LEAD-00047,First47,Last47,lead47@company47.com,+1-969-340-6085,Company-47,VP Sales,Technology,Canada,Referral,2024-11-08,29,,Platform License,DISQUALIFIED
+LEAD-00048,First48,Last48,lead48@company48.com,+1-624-744-4185,Company-48,Director IT,Manufacturing,Germany,Cold Call,2024-12-18,HIGH,-999,Platform License,NEW
+LEAD-00049,First49,Last49,lead49@company49.com,+1-997-535-4585,Company-49,VP Sales,Energy,Canada,Partner,2024-03-03,23,-999,Security Package,CONTACTED
+LEAD-00050,First50,Last50,lead50@company0.com,,Company-50,,Healthcare,usa,Partner,2025-01-03,60,0,Security Package,CONVERTED
+LEAD-00051,First51,Last51,lead51@company1.com,+1-656-262-8777,Company-51,,Retail,Australia,Partner,2025-02-02,58,,Security Package,
+LEAD-00052,First52,Last52,lead52@company2.com,+1-444-381-8206,Company-52,CFO,Finance,India,Trade Show,2024-02-11,10,,Analytics Module,CONTACTED
+LEAD-00053,First53,Last53,lead53@company3.com,+1-436-492-3503,Company-53,Director IT,Healthcare,India,Trade Show,2024-08-26,91,1804766,Security Package,NEW
+LEAD-00054,First54,Last54,lead54@company4.com,+1-411-952-7883,Company-54,,Logistics,usa,Referral,2024-09-01,50,4909613,Platform License,QUALIFIED
+LEAD-00055,First55,Last55,lead55@company5.com,+1-505-871-7389,Company-55,Director IT,Manufacturing,Australia,Referral,2024-09-05,54,,Platform License,DISQUALIFIED
+LEAD-00056,First56,Last56,lead56@company6.com,+1-544-784-7624,Company-56,CTO,Energy,UNKNOWN,Web,2025-04-09,,-999,Security Package,CONVERTED
+LEAD-00057,First57,Last57,lead57@company7.com,+1-777-778-1444,Company-57,,Healthcare,Germany,Web,2024-05-13,11,,Security Package,QUALIFIED
+LEAD-00058,First58,Last58,lead58@company8.com,+1-416-565-6355,Company-58,,Logistics,Japan,LinkedIn,2025-03-03,44,0,Platform License,DISQUALIFIED
+LEAD-00059,First59,Last59,lead59@company9.com,+1-219-867-9837,Company-59,CEO,Technology,US,Web,2025-01-21,7,,Platform License,CONTACTED
+LEAD-00060,First60,Last60,INVALID_EMAIL,,Company-60,CTO,Manufacturing,,Cold Call,2/19/2024,26,,Analytics Module,DISQUALIFIED
+LEAD-00061,First61,Last61,lead61@company11.com,+1-916-362-7043,Company-61,CFO,Technology,usa,Web,2025-04-20,22,,Data Integration Suite,CONVERTED
+LEAD-00062,First62,Last62,lead62@company12.com,+1-893-484-7498,Company-62,Manager,Retail,US,Email Campaign,2024-02-22,92,1673710,Data Integration Suite,
+LEAD-00063,First63,Last63,lead63@company13.com,+1-814-924-2983,Company-63,Manager,Healthcare,US,LinkedIn,2024-02-05,73,0,Data Integration Suite,NEW
+LEAD-00064,First64,Last64,lead64@company14.com,+1-630-942-9031,Company-64,CFO,Retail,,Cold Call,2024-03-19,HIGH,-999,Security Package,CONTACTED
+LEAD-00065,First65,Last65,lead65@company15.com,+1-951-634-5425,Company-65,Director IT,Healthcare,usa,LinkedIn,2024-06-14,79,-999,Analytics Module,NEW
+LEAD-00066,First66,Last66,lead66@company16.com,+1-485-561-4995,Company-66,CFO,Technology,,Partner,2024-06-15,97,-999,Analytics Module,DISQUALIFIED
+LEAD-00067,First67,Last67,lead67@company17.com,+1-417-463-5232,Company-67,Manager,Technology,UNKNOWN,Email Campaign,2024-02-13,44,0,Analytics Module,
+LEAD-00068,First68,Last68,lead68@company18.com,+1-616-600-4937,Company-68,Director IT,Logistics,United States,Web,2024-05-30,89,-999,Analytics Module,DISQUALIFIED
+LEAD-00069,First69,Last69,lead69@company19.com,+1-908-349-6016,Company-69,Director IT,Energy,UNKNOWN,LinkedIn,2024-08-05,85,0,Data Integration Suite,QUALIFIED
+LEAD-00070,First70,Last70,lead70@company20.com,,Company-70,CFO,Finance,Canada,Web,2025-01-04,90,0,Analytics Module,QUALIFIED
+LEAD-00071,First71,Last71,lead71@company21.com,+1-322-860-9779,Company-71,CTO,Retail,,LinkedIn,2025-01-05,98,,Data Integration Suite,NEW
+LEAD-00072,First72,Last72,lead72@company22.com,+1-398-403-4727,Company-72,CFO,Technology,UNKNOWN,Email Campaign,2024-05-20,,,Platform License,NEW
+LEAD-00073,First73,Last73,lead73@company23.com,+1-766-399-3068,Company-73,,Technology,usa,LinkedIn,2024-08-28,82,4127788,Security Package,DISQUALIFIED
+LEAD-00074,First74,Last74,lead74@company24.com,+1-548-288-1841,Company-74,,Technology,Japan,Referral,2024-02-07,33,4017482,Platform License,CONTACTED
+LEAD-00075,First75,Last75,,+1-352-930-5978,Company-75,Manager,Logistics,Japan,Trade Show,2024-11-01,11,2091976,Analytics Module,CONVERTED
+LEAD-00076,First76,Last76,lead76@company26.com,+1-589-561-8253,Company-76,CFO,Energy,usa,Web,2024-11-08,39,-999,Platform License,CONTACTED
+LEAD-00077,First77,Last77,lead77@company27.com,+1-840-316-5335,Company-77,CTO,Manufacturing,UNKNOWN,Web,2024-03-21,85,,Platform License,DISQUALIFIED
+LEAD-00078,First78,Last78,lead78@company28.com,+1-661-805-8699,Company-78,CFO,Retail,Australia,Cold Call,2025-03-16,38,,Security Package,NEW
+LEAD-00079,First79,Last79,lead79@company29.com,+1-903-339-5334,Company-79,Director IT,Technology,UNKNOWN,Email Campaign,2024-11-27,81,,Analytics Module,QUALIFIED
+LEAD-00080,First80,Last80,lead80@company30.com,,Company-80,VP Sales,Manufacturing,Australia,Trade Show,12/27/2024,HIGH,1203164,Data Integration Suite,DISQUALIFIED
+LEAD-00081,First81,Last81,lead81@company31.com,+1-327-579-5982,Company-81,Manager,Energy,,Referral,2024-02-11,90,0,Platform License,DISQUALIFIED
+LEAD-00082,First82,Last82,lead82@company32.com,+1-952-430-5102,Company-82,CEO,Logistics,usa,Trade Show,2025-05-01,4,,Platform License,
+LEAD-00083,First83,Last83,lead83@company33.com,+1-475-690-1659,Company-83,Manager,Retail,,LinkedIn,2024-04-02,98,-999,Security Package,
+LEAD-00084,First84,Last84,lead84@company34.com,+1-703-193-8700,Company-84,CFO,Retail,UK,Partner,2024-03-23,45,0,Data Integration Suite,DISQUALIFIED
+LEAD-00085,First85,Last85,lead85@company35.com,+1-910-607-5722,Company-85,Director IT,Technology,India,LinkedIn,2024-06-14,85,3369236,Platform License,DISQUALIFIED
+LEAD-00086,First86,Last86,lead86@company36.com,+1-726-944-1018,Company-86,Director IT,Technology,Canada,Trade Show,2024-07-04,85,-999,Security Package,
+LEAD-00087,First87,Last87,lead87@company37.com,+1-652-878-1845,Company-87,CFO,Healthcare,,Web,2024-01-15,27,,Analytics Module,
+LEAD-00088,First88,Last88,lead88@company38.com,+1-362-418-1224,Company-88,VP Sales,Manufacturing,UK,Referral,2025-04-29,,-999,Platform License,
+LEAD-00089,First89,Last89,lead89@company39.com,+1-357-610-5781,Company-89,,Healthcare,,Email Campaign,2024-08-21,66,-999,Analytics Module,DISQUALIFIED
+LEAD-00090,First90,Last90,INVALID_EMAIL,,Company-90,,Technology,Australia,Partner,2025-02-08,25,,Security Package,QUALIFIED
+LEAD-00091,First91,Last91,lead91@company41.com,+1-719-373-1042,Company-91,,Manufacturing,,Trade Show,2024-09-04,37,-999,Data Integration Suite,QUALIFIED
+LEAD-00092,First92,Last92,lead92@company42.com,+1-765-881-9903,Company-92,,Manufacturing,Canada,Trade Show,2024-07-15,49,0,Analytics Module,DISQUALIFIED
+LEAD-00093,First93,Last93,lead93@company43.com,+1-244-425-8749,Company-93,CEO,Logistics,US,Email Campaign,2024-09-10,91,-999,Platform License,CONTACTED
+LEAD-00094,First94,Last94,lead94@company44.com,+1-714-704-6439,Company-94,Manager,Healthcare,United States,Cold Call,2024-03-14,13,3703556,Security Package,
+LEAD-00095,First95,Last95,lead95@company45.com,+1-358-176-8692,Company-95,CEO,Technology,India,Partner,2024-12-11,34,-999,Security Package,QUALIFIED
+LEAD-00096,First96,Last96,lead96@company46.com,+1-841-835-8994,Company-96,Manager,Technology,Canada,Cold Call,2024-12-16,HIGH,4548371,Data Integration Suite,CONTACTED
+LEAD-00097,First97,Last97,lead97@company47.com,+1-964-192-8110,Company-97,CTO,Retail,Australia,Web,2024-01-24,13,-999,Data Integration Suite,NEW
+LEAD-00098,First98,Last98,lead98@company48.com,+1-500-467-7141,Company-98,Manager,Healthcare,usa,Cold Call,2025-02-09,56,,Analytics Module,CONTACTED
+LEAD-00099,First99,Last99,lead99@company49.com,+1-379-180-7267,Company-99,Manager,Manufacturing,Canada,Referral,2024-11-22,80,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00100,First100,Last100,lead100@company0.com,,Company-0,CFO,Retail,UNKNOWN,Email Campaign,2/15/2024,33,-999,Data Integration Suite,CONVERTED
+LEAD-00101,First101,Last101,lead101@company1.com,+1-506-754-7951,Company-1,,Finance,Canada,Referral,2025-03-12,89,-999,Security Package,NEW
+LEAD-00102,First102,Last102,lead102@company2.com,+1-442-490-6881,Company-2,VP Sales,Logistics,US,Referral,2024-05-20,74,0,Platform License,CONVERTED
+LEAD-00103,First103,Last103,lead103@company3.com,+1-902-896-1803,Company-3,,Logistics,Canada,Trade Show,2025-02-14,78,0,Data Integration Suite,CONTACTED
+LEAD-00104,First104,Last104,lead104@company4.com,+1-851-294-5106,Company-4,CEO,Retail,United States,LinkedIn,2025-02-07,,1157387,Security Package,NEW
+LEAD-00105,First105,Last105,,+1-793-473-3153,Company-5,CEO,Healthcare,Germany,Email Campaign,2024-03-08,12,0,Data Integration Suite,CONVERTED
+LEAD-00106,First106,Last106,lead106@company6.com,+1-713-379-3695,Company-6,CEO,Logistics,India,Partner,2024-02-28,33,0,Security Package,NEW
+LEAD-00107,First107,Last107,lead107@company7.com,+1-344-872-4696,Company-7,VP Sales,Logistics,Japan,Web,2024-05-15,87,0,Platform License,DISQUALIFIED
+LEAD-00108,First108,Last108,lead108@company8.com,+1-577-788-5295,Company-8,VP Sales,Retail,Canada,Referral,2024-01-13,75,0,Data Integration Suite,CONVERTED
+LEAD-00109,First109,Last109,lead109@company9.com,+1-426-763-2035,Company-9,CEO,Healthcare,UK,Email Campaign,2024-01-24,82,0,Platform License,QUALIFIED
+LEAD-00110,First110,Last110,lead110@company10.com,,Company-10,CTO,Energy,Germany,Referral,2024-08-20,64,984089,Data Integration Suite,
+LEAD-00111,First111,Last111,lead111@company11.com,+1-960-813-9850,Company-11,Director IT,Retail,UK,Partner,2024-09-07,54,,Security Package,QUALIFIED
+LEAD-00112,First112,Last112,lead112@company12.com,+1-233-806-7070,Company-12,Director IT,Manufacturing,India,Web,2024-12-17,HIGH,-999,Data Integration Suite,CONVERTED
+LEAD-00113,First113,Last113,lead113@company13.com,+1-860-467-1992,Company-13,VP Sales,Logistics,,Web,2024-12-05,51,,Analytics Module,
+LEAD-00114,First114,Last114,lead114@company14.com,+1-854-711-1349,Company-14,CTO,Logistics,usa,Email Campaign,2024-02-05,7,,Analytics Module,CONVERTED
+LEAD-00115,First115,Last115,lead115@company15.com,+1-421-932-4817,Company-15,CFO,Logistics,Germany,Email Campaign,2024-10-03,43,1247774,Data Integration Suite,CONTACTED
+LEAD-00116,First116,Last116,lead116@company16.com,+1-312-776-1422,Company-16,,Logistics,Canada,Trade Show,2024-06-14,17,0,Platform License,CONTACTED
+LEAD-00117,First117,Last117,lead117@company17.com,+1-471-153-3076,Company-17,CEO,Technology,,Referral,2025-02-02,95,3541273,Data Integration Suite,CONVERTED
+LEAD-00118,First118,Last118,lead118@company18.com,+1-807-211-8405,Company-18,CEO,Logistics,US,Trade Show,2024-06-03,65,1868494,Security Package,
+LEAD-00119,First119,Last119,lead119@company19.com,+1-231-162-8847,Company-19,Director IT,Retail,,Web,2025-04-05,52,3585842,Platform License,QUALIFIED
+LEAD-00120,First120,Last120,INVALID_EMAIL,,Company-20,CTO,Finance,usa,Cold Call,10/18/2024,,1254314,Data Integration Suite,DISQUALIFIED
+LEAD-00121,First121,Last121,lead121@company21.com,+1-811-643-5831,Company-21,VP Sales,Logistics,UK,Partner,2024-12-01,59,-999,Analytics Module,DISQUALIFIED
+LEAD-00122,First122,Last122,lead122@company22.com,+1-662-333-7779,Company-22,Director IT,Retail,UK,LinkedIn,2024-08-06,44,-999,Data Integration Suite,
+LEAD-00123,First123,Last123,lead123@company23.com,+1-461-483-3500,Company-23,VP Sales,Logistics,UK,Web,2024-08-09,88,3988447,Platform License,
+LEAD-00124,First124,Last124,lead124@company24.com,+1-956-481-3131,Company-24,CEO,Technology,Japan,LinkedIn,2025-03-23,72,0,Security Package,
+LEAD-00125,First125,Last125,lead125@company25.com,+1-252-394-6119,Company-25,CTO,Retail,,Email Campaign,2025-03-09,46,,Platform License,QUALIFIED
+LEAD-00126,First126,Last126,lead126@company26.com,+1-769-476-2882,Company-26,,Healthcare,UNKNOWN,Partner,2025-02-23,98,,Platform License,CONVERTED
+LEAD-00127,First127,Last127,lead127@company27.com,+1-873-949-5381,Company-27,CEO,Logistics,Australia,LinkedIn,2024-06-28,4,0,Platform License,CONTACTED
+LEAD-00128,First128,Last128,lead128@company28.com,+1-346-679-7566,Company-28,CEO,Retail,United States,Web,2025-01-17,HIGH,,Analytics Module,DISQUALIFIED
+LEAD-00129,First129,Last129,lead129@company29.com,+1-629-564-6585,Company-29,CEO,Finance,usa,Trade Show,2024-02-13,21,0,Platform License,CONTACTED
+LEAD-00130,First130,Last130,lead130@company30.com,,Company-30,CFO,Healthcare,US,Referral,2024-09-05,21,427438,Security Package,DISQUALIFIED
+LEAD-00131,First131,Last131,lead131@company31.com,+1-479-320-9394,Company-31,VP Sales,Finance,US,Cold Call,2024-10-30,15,-999,Security Package,CONVERTED
+LEAD-00132,First132,Last132,lead132@company32.com,+1-883-415-1744,Company-32,VP Sales,Manufacturing,Australia,Email Campaign,2025-01-27,29,3325709,Analytics Module,QUALIFIED
+LEAD-00133,First133,Last133,lead133@company33.com,+1-496-435-2965,Company-33,CTO,Manufacturing,Japan,Trade Show,2024-12-26,1,-999,Analytics Module,CONVERTED
+LEAD-00134,First134,Last134,lead134@company34.com,+1-772-953-6802,Company-34,Director IT,Technology,,Web,2025-03-17,10,3340874,Data Integration Suite,CONVERTED
+LEAD-00135,First135,Last135,,+1-639-687-7626,Company-35,VP Sales,Healthcare,United States,LinkedIn,2024-03-28,91,0,Security Package,
+LEAD-00136,First136,Last136,lead136@company36.com,+1-570-190-8155,Company-36,Director IT,Energy,Japan,Trade Show,2024-02-10,,,Security Package,QUALIFIED
+LEAD-00137,First137,Last137,lead137@company37.com,+1-963-447-4630,Company-37,Manager,Retail,UK,Trade Show,2024-09-18,43,1420399,Analytics Module,QUALIFIED
+LEAD-00138,First138,Last138,lead138@company38.com,+1-559-844-3419,Company-38,CFO,Manufacturing,Germany,Trade Show,2024-03-19,31,,Platform License,CONTACTED
+LEAD-00139,First139,Last139,lead139@company39.com,+1-991-743-9095,Company-39,CEO,Energy,US,Cold Call,2024-11-15,60,-999,Data Integration Suite,
+LEAD-00140,First140,Last140,lead140@company40.com,,Company-40,VP Sales,Healthcare,,Cold Call,5/26/2024,41,-999,Data Integration Suite,CONVERTED
+LEAD-00141,First141,Last141,lead141@company41.com,+1-257-460-9312,Company-41,Director IT,Technology,United States,LinkedIn,2025-03-01,10,-999,Data Integration Suite,NEW
+LEAD-00142,First142,Last142,lead142@company42.com,+1-860-984-2479,Company-42,Director IT,Energy,UNKNOWN,Partner,2025-01-13,79,-999,Platform License,DISQUALIFIED
+LEAD-00143,First143,Last143,lead143@company43.com,+1-785-767-4084,Company-43,VP Sales,Healthcare,UK,Partner,2025-04-05,42,,Data Integration Suite,
+LEAD-00144,First144,Last144,lead144@company44.com,+1-286-616-3827,Company-44,CEO,Healthcare,,Trade Show,2024-09-24,HIGH,,Analytics Module,QUALIFIED
+LEAD-00145,First145,Last145,lead145@company45.com,+1-581-389-7347,Company-45,,Retail,US,LinkedIn,2024-02-03,53,2848429,Data Integration Suite,NEW
+LEAD-00146,First146,Last146,lead146@company46.com,+1-771-794-7333,Company-46,CFO,Technology,usa,Cold Call,2024-03-13,37,,Data Integration Suite,QUALIFIED
+LEAD-00147,First147,Last147,lead147@company47.com,+1-871-815-7421,Company-47,Manager,Healthcare,US,Partner,2024-06-17,17,0,Analytics Module,
+LEAD-00148,First148,Last148,lead148@company48.com,+1-919-948-9624,Company-48,VP Sales,Finance,Australia,Email Campaign,2025-05-01,12,0,Analytics Module,QUALIFIED
+LEAD-00149,First149,Last149,lead149@company49.com,+1-984-597-4145,Company-49,VP Sales,Finance,UK,Trade Show,2025-01-29,29,,Platform License,
+LEAD-00150,First150,Last150,INVALID_EMAIL,,Company-50,CTO,Manufacturing,Germany,Partner,2024-12-20,44,-999,Analytics Module,
+LEAD-00151,First151,Last151,lead151@company1.com,+1-648-144-7731,Company-51,Manager,Finance,,Email Campaign,2024-09-30,47,-999,Analytics Module,QUALIFIED
+LEAD-00152,First152,Last152,lead152@company2.com,+1-680-955-4178,Company-52,Director IT,Logistics,Australia,Partner,2024-07-14,,-999,Security Package,CONTACTED
+LEAD-00153,First153,Last153,lead153@company3.com,+1-404-920-3267,Company-53,,Finance,UNKNOWN,Web,2024-12-30,33,-999,Platform License,QUALIFIED
+LEAD-00154,First154,Last154,lead154@company4.com,+1-285-881-3626,Company-54,,Healthcare,UK,Email Campaign,2025-02-22,35,,Security Package,QUALIFIED
+LEAD-00155,First155,Last155,lead155@company5.com,+1-227-524-1872,Company-55,CTO,Healthcare,UK,LinkedIn,2024-04-24,51,0,Platform License,QUALIFIED
+LEAD-00156,First156,Last156,lead156@company6.com,+1-301-959-6493,Company-56,CFO,Logistics,,Cold Call,2025-03-01,19,1164269,Analytics Module,
+LEAD-00157,First157,Last157,lead157@company7.com,+1-680-559-1086,Company-57,CTO,Logistics,Germany,Trade Show,2025-04-26,11,0,Security Package,NEW
+LEAD-00158,First158,Last158,lead158@company8.com,+1-994-395-4893,Company-58,CTO,Healthcare,US,Partner,2024-11-14,39,1032138,Security Package,NEW
+LEAD-00159,First159,Last159,lead159@company9.com,+1-313-956-9189,Company-59,CEO,Energy,usa,Email Campaign,2025-01-02,77,4506745,Analytics Module,QUALIFIED
+LEAD-00160,First160,Last160,lead160@company10.com,,Company-60,Manager,Finance,Canada,Trade Show,7/6/2024,HIGH,3610716,Platform License,CONVERTED
+LEAD-00161,First161,Last161,lead161@company11.com,+1-569-169-9618,Company-61,Director IT,Logistics,,Web,2024-11-21,70,4265773,Security Package,QUALIFIED
+LEAD-00162,First162,Last162,lead162@company12.com,+1-459-865-1266,Company-62,CTO,Retail,US,Cold Call,2024-02-23,46,0,Data Integration Suite,CONTACTED
+LEAD-00163,First163,Last163,lead163@company13.com,+1-245-460-9945,Company-63,CEO,Healthcare,US,Email Campaign,2025-02-19,44,-999,Analytics Module,NEW
+LEAD-00164,First164,Last164,lead164@company14.com,+1-933-894-8498,Company-64,VP Sales,Logistics,Canada,Web,2024-06-10,5,,Data Integration Suite,CONVERTED
+LEAD-00165,First165,Last165,,+1-607-934-9897,Company-65,,Retail,Canada,LinkedIn,2024-07-01,61,2134949,Platform License,
+LEAD-00166,First166,Last166,lead166@company16.com,+1-539-379-3039,Company-66,CEO,Healthcare,Japan,LinkedIn,2025-05-13,48,-999,Analytics Module,DISQUALIFIED
+LEAD-00167,First167,Last167,lead167@company17.com,+1-908-609-7018,Company-67,CEO,Healthcare,UK,Referral,2024-11-04,67,2247415,Analytics Module,CONVERTED
+LEAD-00168,First168,Last168,lead168@company18.com,+1-500-428-2680,Company-68,CEO,Finance,Australia,Referral,2024-11-04,,0,Security Package,CONTACTED
+LEAD-00169,First169,Last169,lead169@company19.com,+1-906-554-6759,Company-69,Manager,Healthcare,Australia,Cold Call,2025-02-09,58,0,Platform License,NEW
+LEAD-00170,First170,Last170,lead170@company20.com,,Company-70,Manager,Logistics,US,Email Campaign,2025-05-02,86,0,Platform License,CONTACTED
+LEAD-00171,First171,Last171,lead171@company21.com,+1-822-794-8179,Company-71,CTO,Logistics,US,LinkedIn,2024-07-04,5,1068894,Security Package,CONVERTED
+LEAD-00172,First172,Last172,lead172@company22.com,+1-233-719-3513,Company-72,CFO,Healthcare,UK,Trade Show,2024-03-11,87,0,Data Integration Suite,DISQUALIFIED
+LEAD-00173,First173,Last173,lead173@company23.com,+1-521-765-5566,Company-73,CEO,Manufacturing,,Trade Show,2024-07-17,32,961675,Platform License,QUALIFIED
+LEAD-00174,First174,Last174,lead174@company24.com,+1-993-366-8311,Company-74,CTO,Technology,Germany,Partner,2024-02-07,28,-999,Security Package,CONTACTED
+LEAD-00175,First175,Last175,lead175@company25.com,+1-930-555-2438,Company-75,CEO,Technology,UNKNOWN,Trade Show,2024-05-28,88,0,Data Integration Suite,CONTACTED
+LEAD-00176,First176,Last176,lead176@company26.com,+1-928-826-3852,Company-76,VP Sales,Manufacturing,Germany,Email Campaign,2025-02-08,HIGH,,Security Package,NEW
+LEAD-00177,First177,Last177,lead177@company27.com,+1-569-667-7044,Company-77,Manager,Technology,UK,LinkedIn,2024-07-22,60,,Security Package,CONVERTED
+LEAD-00178,First178,Last178,lead178@company28.com,+1-620-887-7708,Company-78,CFO,Retail,UK,Referral,2024-08-26,74,,Data Integration Suite,CONTACTED
+LEAD-00179,First179,Last179,lead179@company29.com,+1-998-664-3981,Company-79,Manager,Logistics,United States,Partner,2024-03-04,99,-999,Analytics Module,QUALIFIED
+LEAD-00180,First180,Last180,INVALID_EMAIL,,Company-80,CEO,Manufacturing,India,Trade Show,5/28/2024,22,0,Platform License,QUALIFIED
+LEAD-00181,First181,Last181,lead181@company31.com,+1-401-750-5496,Company-81,Manager,Retail,Germany,Trade Show,2025-04-27,17,2550276,Analytics Module,CONTACTED
+LEAD-00182,First182,Last182,lead182@company32.com,+1-874-739-6531,Company-82,VP Sales,Technology,US,Partner,2024-10-22,73,355562,Data Integration Suite,
+LEAD-00183,First183,Last183,lead183@company33.com,+1-415-885-7825,Company-83,CEO,Energy,Australia,Cold Call,2025-05-04,80,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00184,First184,Last184,lead184@company34.com,+1-450-924-7653,Company-84,VP Sales,Retail,United States,Email Campaign,2024-08-13,,-999,Security Package,DISQUALIFIED
+LEAD-00185,First185,Last185,lead185@company35.com,+1-675-308-6573,Company-85,,Retail,India,Cold Call,2025-03-16,78,0,Data Integration Suite,DISQUALIFIED
+LEAD-00186,First186,Last186,lead186@company36.com,+1-333-878-7070,Company-86,CFO,Manufacturing,,Web,2024-05-16,66,4721471,Security Package,CONTACTED
+LEAD-00187,First187,Last187,lead187@company37.com,+1-344-199-1829,Company-87,CTO,Logistics,Germany,Partner,2024-06-16,38,-999,Data Integration Suite,CONTACTED
+LEAD-00188,First188,Last188,lead188@company38.com,+1-981-263-9163,Company-88,CFO,Healthcare,United States,Web,2025-04-28,66,-999,Security Package,CONVERTED
+LEAD-00189,First189,Last189,lead189@company39.com,+1-668-346-4524,Company-89,VP Sales,Finance,,Trade Show,2025-03-27,75,2970298,Security Package,QUALIFIED
+LEAD-00190,First190,Last190,lead190@company40.com,,Company-90,Director IT,Manufacturing,Australia,Cold Call,2024-07-06,69,78597,Security Package,QUALIFIED
+LEAD-00191,First191,Last191,lead191@company41.com,+1-246-510-1838,Company-91,CFO,Energy,Australia,Web,2024-07-16,73,,Security Package,CONVERTED
+LEAD-00192,First192,Last192,lead192@company42.com,+1-486-945-2946,Company-92,Director IT,Finance,India,Trade Show,2025-04-25,HIGH,1089306,Data Integration Suite,CONTACTED
+LEAD-00193,First193,Last193,lead193@company43.com,+1-403-716-9341,Company-93,VP Sales,Technology,Germany,Cold Call,2024-06-19,52,4204957,Security Package,CONVERTED
+LEAD-00194,First194,Last194,lead194@company44.com,+1-667-252-9446,Company-94,CTO,Healthcare,usa,Cold Call,2025-03-07,18,0,Data Integration Suite,CONVERTED
+LEAD-00195,First195,Last195,,+1-544-619-9351,Company-95,Director IT,Logistics,United States,LinkedIn,2024-06-18,69,0,Platform License,DISQUALIFIED
+LEAD-00196,First196,Last196,lead196@company46.com,+1-797-415-1436,Company-96,CEO,Logistics,usa,Trade Show,2024-04-26,77,0,Platform License,CONVERTED
+LEAD-00197,First197,Last197,lead197@company47.com,+1-691-274-9589,Company-97,,Retail,Canada,Web,2024-10-20,81,,Platform License,CONTACTED
+LEAD-00198,First198,Last198,lead198@company48.com,+1-219-551-6139,Company-98,CEO,Manufacturing,Japan,Trade Show,2025-01-31,54,-999,Security Package,
+LEAD-00199,First199,Last199,lead199@company49.com,+1-944-163-3262,Company-99,CEO,Healthcare,UNKNOWN,Referral,2024-06-09,67,0,Analytics Module,DISQUALIFIED
+LEAD-00200,First200,Last0,lead200@company0.com,,Company-0,Manager,Finance,US,Partner,12/22/2024,,0,Data Integration Suite,CONVERTED
+LEAD-00201,First201,Last1,lead201@company1.com,+1-695-296-5038,Company-1,CTO,Finance,Australia,Cold Call,2024-04-16,36,0,Security Package,QUALIFIED
+LEAD-00202,First202,Last2,lead202@company2.com,+1-691-457-5480,Company-2,Director IT,Logistics,India,Partner,2025-02-15,37,-999,Analytics Module,QUALIFIED
+LEAD-00203,First203,Last3,lead203@company3.com,+1-243-394-2294,Company-3,CEO,Healthcare,Canada,Email Campaign,2025-02-27,45,0,Data Integration Suite,CONVERTED
+LEAD-00204,First204,Last4,lead204@company4.com,+1-912-378-3249,Company-4,CTO,Technology,US,Trade Show,2024-04-25,14,,Analytics Module,NEW
+LEAD-00205,First205,Last5,lead205@company5.com,+1-302-523-6411,Company-5,CEO,Logistics,Germany,Web,2025-05-08,92,3972811,Analytics Module,DISQUALIFIED
+LEAD-00206,First206,Last6,lead206@company6.com,+1-868-999-8793,Company-6,CFO,Finance,US,Web,2025-04-09,62,0,Platform License,
+LEAD-00207,First207,Last7,lead207@company7.com,+1-787-337-9767,Company-7,Director IT,Logistics,Germany,Web,2025-03-04,95,,Security Package,DISQUALIFIED
+LEAD-00208,First208,Last8,lead208@company8.com,+1-390-866-5742,Company-8,CFO,Energy,usa,Web,2025-04-20,HIGH,324289,Data Integration Suite,QUALIFIED
+LEAD-00209,First209,Last9,lead209@company9.com,+1-665-756-9901,Company-9,,Energy,,LinkedIn,2024-04-08,68,,Platform License,QUALIFIED
+LEAD-00210,First210,Last10,INVALID_EMAIL,,Company-10,CEO,Manufacturing,United States,Cold Call,2024-06-21,21,0,Data Integration Suite,CONVERTED
+LEAD-00211,First211,Last11,lead211@company11.com,+1-890-875-4164,Company-11,Manager,Finance,UK,Referral,2024-12-08,23,-999,Platform License,CONTACTED
+LEAD-00212,First212,Last12,lead212@company12.com,+1-343-588-6301,Company-12,Director IT,Manufacturing,,Partner,2024-05-16,32,0,Data Integration Suite,QUALIFIED
+LEAD-00213,First213,Last13,lead213@company13.com,+1-796-840-1187,Company-13,VP Sales,Retail,UK,Referral,2024-06-06,34,,Analytics Module,DISQUALIFIED
+LEAD-00214,First214,Last14,lead214@company14.com,+1-902-614-6095,Company-14,CFO,Energy,Canada,Email Campaign,2025-05-05,89,0,Analytics Module,DISQUALIFIED
+LEAD-00215,First215,Last15,lead215@company15.com,+1-356-565-7121,Company-15,,Energy,US,Partner,2024-04-21,54,-999,Analytics Module,
+LEAD-00216,First216,Last16,lead216@company16.com,+1-972-710-2341,Company-16,Manager,Retail,India,Web,2025-04-14,,-999,Platform License,NEW
+LEAD-00217,First217,Last17,lead217@company17.com,+1-760-617-4312,Company-17,CTO,Finance,UNKNOWN,Referral,2024-02-29,74,,Analytics Module,
+LEAD-00218,First218,Last18,lead218@company18.com,+1-797-600-2489,Company-18,Director IT,Manufacturing,UNKNOWN,Referral,2024-08-21,66,3746979,Platform License,CONVERTED
+LEAD-00219,First219,Last19,lead219@company19.com,+1-673-788-6049,Company-19,CFO,Logistics,United States,Cold Call,2024-04-21,93,-999,Platform License,NEW
+LEAD-00220,First220,Last20,lead220@company20.com,,Company-20,Manager,Technology,UK,Referral,1/10/2024,55,2900117,Security Package,CONTACTED
+LEAD-00221,First221,Last21,lead221@company21.com,+1-987-238-7887,Company-21,,Healthcare,Japan,Web,2024-12-15,48,-999,Analytics Module,
+LEAD-00222,First222,Last22,lead222@company22.com,+1-556-221-3924,Company-22,CEO,Manufacturing,United States,Partner,2024-01-12,69,,Data Integration Suite,DISQUALIFIED
+LEAD-00223,First223,Last23,lead223@company23.com,+1-889-836-9920,Company-23,,Manufacturing,Canada,Referral,2024-06-26,55,-999,Analytics Module,QUALIFIED
+LEAD-00224,First224,Last24,lead224@company24.com,+1-393-996-2848,Company-24,Manager,Logistics,United States,Email Campaign,2024-04-15,HIGH,-999,Platform License,NEW
+LEAD-00225,First225,Last25,,+1-808-134-8314,Company-25,CEO,Technology,Japan,Referral,2024-04-29,77,,Analytics Module,NEW
+LEAD-00226,First226,Last26,lead226@company26.com,+1-343-615-5739,Company-26,Manager,Energy,US,Partner,2024-06-13,30,0,Analytics Module,QUALIFIED
+LEAD-00227,First227,Last27,lead227@company27.com,+1-346-776-9540,Company-27,CFO,Technology,UNKNOWN,Trade Show,2025-03-26,29,0,Analytics Module,
+LEAD-00228,First228,Last28,lead228@company28.com,+1-895-537-9120,Company-28,,Energy,India,Cold Call,2024-08-01,7,-999,Security Package,CONTACTED
+LEAD-00229,First229,Last29,lead229@company29.com,+1-507-485-4012,Company-29,CTO,Logistics,Canada,LinkedIn,2025-03-15,97,-999,Analytics Module,DISQUALIFIED
+LEAD-00230,First230,Last30,lead230@company30.com,,Company-30,Director IT,Energy,UNKNOWN,Email Campaign,2024-07-17,8,-999,Analytics Module,QUALIFIED
+LEAD-00231,First231,Last31,lead231@company31.com,+1-408-438-2295,Company-31,Manager,Retail,Canada,Web,2024-05-17,58,3122823,Security Package,
+LEAD-00232,First232,Last32,lead232@company32.com,+1-819-717-1647,Company-32,,Logistics,usa,Cold Call,2024-12-09,,,Analytics Module,DISQUALIFIED
+LEAD-00233,First233,Last33,lead233@company33.com,+1-413-990-6455,Company-33,CTO,Retail,UK,Cold Call,2025-01-21,39,,Security Package,CONTACTED
+LEAD-00234,First234,Last34,lead234@company34.com,+1-912-718-4350,Company-34,,Finance,Japan,Referral,2024-09-30,51,0,Data Integration Suite,QUALIFIED
+LEAD-00235,First235,Last35,lead235@company35.com,+1-467-468-9401,Company-35,,Retail,,Partner,2025-03-05,64,3919125,Data Integration Suite,CONTACTED
+LEAD-00236,First236,Last36,lead236@company36.com,+1-579-420-7781,Company-36,CEO,Manufacturing,United States,LinkedIn,2024-10-10,6,,Security Package,QUALIFIED
+LEAD-00237,First237,Last37,lead237@company37.com,+1-356-300-6404,Company-37,Director IT,Energy,US,Cold Call,2024-06-21,30,,Data Integration Suite,DISQUALIFIED
+LEAD-00238,First238,Last38,lead238@company38.com,+1-940-757-9037,Company-38,CTO,Manufacturing,UNKNOWN,Referral,2024-04-04,59,0,Platform License,CONVERTED
+LEAD-00239,First239,Last39,lead239@company39.com,+1-234-959-2217,Company-39,Director IT,Manufacturing,US,Email Campaign,2024-02-04,86,416968,Analytics Module,NEW
+LEAD-00240,First240,Last40,INVALID_EMAIL,,Company-40,CFO,Technology,usa,Cold Call,11/20/2024,HIGH,-999,Security Package,
+LEAD-00241,First241,Last41,lead241@company41.com,+1-699-116-1108,Company-41,VP Sales,Technology,UNKNOWN,Cold Call,2024-05-20,69,-999,Data Integration Suite,NEW
+LEAD-00242,First242,Last42,lead242@company42.com,+1-714-932-8054,Company-42,Manager,Manufacturing,Canada,Email Campaign,2024-11-13,23,907718,Data Integration Suite,QUALIFIED
+LEAD-00243,First243,Last43,lead243@company43.com,+1-473-914-7502,Company-43,Director IT,Energy,Canada,Cold Call,2024-04-25,11,-999,Data Integration Suite,
+LEAD-00244,First244,Last44,lead244@company44.com,+1-282-769-1519,Company-44,Director IT,Energy,,Web,2024-11-22,12,-999,Platform License,
+LEAD-00245,First245,Last45,lead245@company45.com,+1-375-184-9189,Company-45,Manager,Technology,Canada,Email Campaign,2025-04-06,56,2788899,Security Package,QUALIFIED
+LEAD-00246,First246,Last46,lead246@company46.com,+1-247-176-5593,Company-46,CTO,Logistics,India,Web,2025-05-07,70,4737063,Analytics Module,CONVERTED
+LEAD-00247,First247,Last47,lead247@company47.com,+1-347-870-7525,Company-47,Manager,Manufacturing,usa,Partner,2025-03-10,10,,Security Package,
+LEAD-00248,First248,Last48,lead248@company48.com,+1-753-439-7288,Company-48,Manager,Retail,India,Web,2024-02-20,,1183990,Security Package,CONTACTED
+LEAD-00249,First249,Last49,lead249@company49.com,+1-277-448-7499,Company-49,CEO,Finance,,Referral,2024-04-26,100,2747845,Data Integration Suite,CONVERTED
+LEAD-00250,First250,Last50,lead250@company0.com,,Company-50,CEO,Energy,US,Referral,2024-02-13,49,,Data Integration Suite,CONTACTED
+LEAD-00251,First251,Last51,lead251@company1.com,+1-930-175-2344,Company-51,CEO,Logistics,US,Email Campaign,2025-01-13,35,-999,Security Package,QUALIFIED
+LEAD-00252,First252,Last52,lead252@company2.com,+1-569-209-2499,Company-52,CFO,Logistics,Australia,Web,2024-03-08,1,-999,Platform License,CONTACTED
+LEAD-00253,First253,Last53,lead253@company3.com,+1-641-559-9395,Company-53,VP Sales,Finance,UNKNOWN,Web,2024-11-01,53,876483,Data Integration Suite,DISQUALIFIED
+LEAD-00254,First254,Last54,lead254@company4.com,+1-212-398-7779,Company-54,Manager,Energy,Germany,Cold Call,2024-07-13,50,,Analytics Module,CONTACTED
+LEAD-00255,First255,Last55,,+1-475-408-5397,Company-55,CTO,Healthcare,Australia,Referral,2024-06-02,64,1234190,Security Package,NEW
+LEAD-00256,First256,Last56,lead256@company6.com,+1-569-357-5040,Company-56,Director IT,Technology,Germany,LinkedIn,2024-01-04,HIGH,,Security Package,QUALIFIED
+LEAD-00257,First257,Last57,lead257@company7.com,+1-835-489-6399,Company-57,,Logistics,US,Trade Show,2024-03-10,57,-999,Data Integration Suite,QUALIFIED
+LEAD-00258,First258,Last58,lead258@company8.com,+1-817-811-4290,Company-58,Director IT,Finance,Australia,Cold Call,2024-12-21,62,,Security Package,CONVERTED
+LEAD-00259,First259,Last59,lead259@company9.com,+1-448-433-7161,Company-59,VP Sales,Energy,Canada,Trade Show,2024-10-06,36,0,Analytics Module,
+LEAD-00260,First260,Last60,lead260@company10.com,,Company-60,CEO,Healthcare,Canada,Referral,5/27/2024,99,4624566,Platform License,DISQUALIFIED
+LEAD-00261,First261,Last61,lead261@company11.com,+1-889-611-3280,Company-61,CFO,Retail,Germany,Cold Call,2024-08-04,82,,Security Package,NEW
+LEAD-00262,First262,Last62,lead262@company12.com,+1-659-712-8851,Company-62,Manager,Technology,India,Cold Call,2025-04-03,75,-999,Platform License,NEW
+LEAD-00263,First263,Last63,lead263@company13.com,+1-987-354-6816,Company-63,,Finance,Japan,Web,2024-01-06,22,-999,Platform License,QUALIFIED
+LEAD-00264,First264,Last64,lead264@company14.com,+1-427-622-9499,Company-64,Director IT,Finance,Japan,Referral,2025-01-30,,,Analytics Module,QUALIFIED
+LEAD-00265,First265,Last65,lead265@company15.com,+1-225-594-2712,Company-65,VP Sales,Logistics,Germany,LinkedIn,2024-06-08,38,3499454,Data Integration Suite,DISQUALIFIED
+LEAD-00266,First266,Last66,lead266@company16.com,+1-411-633-8912,Company-66,Director IT,Retail,,LinkedIn,2024-02-04,45,4004340,Data Integration Suite,NEW
+LEAD-00267,First267,Last67,lead267@company17.com,+1-927-217-1370,Company-67,CEO,Manufacturing,UNKNOWN,Email Campaign,2024-10-09,44,,Analytics Module,QUALIFIED
+LEAD-00268,First268,Last68,lead268@company18.com,+1-773-536-8570,Company-68,CTO,Retail,US,Referral,2024-07-21,30,,Platform License,
+LEAD-00269,First269,Last69,lead269@company19.com,+1-828-302-8365,Company-69,VP Sales,Retail,Canada,Email Campaign,2024-05-22,76,-999,Platform License,CONVERTED
+LEAD-00270,First270,Last70,INVALID_EMAIL,,Company-70,CFO,Finance,Canada,Referral,2024-02-28,14,,Data Integration Suite,
+LEAD-00271,First271,Last71,lead271@company21.com,+1-701-640-6134,Company-71,Manager,Technology,India,LinkedIn,2025-03-08,77,-999,Security Package,CONVERTED
+LEAD-00272,First272,Last72,lead272@company22.com,+1-376-933-5873,Company-72,CEO,Manufacturing,India,Web,2024-05-02,HIGH,4960691,Data Integration Suite,NEW
+LEAD-00273,First273,Last73,lead273@company23.com,+1-387-482-3316,Company-73,Manager,Manufacturing,usa,Referral,2024-08-04,66,-999,Analytics Module,DISQUALIFIED
+LEAD-00274,First274,Last74,lead274@company24.com,+1-850-650-3838,Company-74,CFO,Manufacturing,Germany,LinkedIn,2025-03-07,72,-999,Security Package,CONVERTED
+LEAD-00275,First275,Last75,lead275@company25.com,+1-254-986-6882,Company-75,CTO,Logistics,Japan,Trade Show,2024-09-15,2,,Security Package,DISQUALIFIED
+LEAD-00276,First276,Last76,lead276@company26.com,+1-901-603-7809,Company-76,CTO,Technology,usa,Web,2025-02-11,91,-999,Analytics Module,QUALIFIED
+LEAD-00277,First277,Last77,lead277@company27.com,+1-233-381-4683,Company-77,,Healthcare,usa,Cold Call,2025-01-30,69,,Security Package,CONVERTED
+LEAD-00278,First278,Last78,lead278@company28.com,+1-723-215-2871,Company-78,Manager,Logistics,United States,Partner,2025-01-03,35,0,Security Package,CONVERTED
+LEAD-00279,First279,Last79,lead279@company29.com,+1-423-535-2677,Company-79,,Technology,,LinkedIn,2024-06-27,95,0,Platform License,DISQUALIFIED
+LEAD-00280,First280,Last80,lead280@company30.com,,Company-80,CTO,Logistics,usa,Cold Call,6/28/2024,,,Security Package,CONTACTED
+LEAD-00281,First281,Last81,lead281@company31.com,+1-830-242-4385,Company-81,Manager,Finance,usa,Trade Show,2024-03-27,27,0,Data Integration Suite,
+LEAD-00282,First282,Last82,lead282@company32.com,+1-499-396-5380,Company-82,,Logistics,Japan,Web,2024-05-21,66,,Analytics Module,
+LEAD-00283,First283,Last83,lead283@company33.com,+1-335-355-3396,Company-83,,Logistics,US,Referral,2024-09-07,92,,Analytics Module,CONVERTED
+LEAD-00284,First284,Last84,lead284@company34.com,+1-847-375-7786,Company-84,CEO,Logistics,UK,Referral,2024-09-20,49,3801581,Data Integration Suite,
+LEAD-00285,First285,Last85,,+1-577-565-8996,Company-85,,Logistics,UK,Cold Call,2025-05-12,42,4891796,Security Package,
+LEAD-00286,First286,Last86,lead286@company36.com,+1-880-814-6869,Company-86,CTO,Healthcare,Canada,Referral,2024-05-17,9,-999,Data Integration Suite,QUALIFIED
+LEAD-00287,First287,Last87,lead287@company37.com,+1-545-660-3139,Company-87,CEO,Logistics,United States,Web,2024-02-20,73,0,Security Package,NEW
+LEAD-00288,First288,Last88,lead288@company38.com,+1-327-978-3588,Company-88,VP Sales,Healthcare,Canada,Cold Call,2025-04-10,HIGH,-999,Analytics Module,
+LEAD-00289,First289,Last89,lead289@company39.com,+1-509-262-5489,Company-89,VP Sales,Finance,US,Cold Call,2024-03-25,12,0,Platform License,DISQUALIFIED
+LEAD-00290,First290,Last90,lead290@company40.com,,Company-90,Director IT,Retail,UK,Cold Call,2024-02-18,81,,Platform License,CONTACTED
+LEAD-00291,First291,Last91,lead291@company41.com,+1-688-179-3174,Company-91,VP Sales,Technology,India,Partner,2024-03-02,76,-999,Security Package,
+LEAD-00292,First292,Last92,lead292@company42.com,+1-335-589-2160,Company-92,CEO,Logistics,UK,Web,2024-06-09,30,3223423,Data Integration Suite,QUALIFIED
+LEAD-00293,First293,Last93,lead293@company43.com,+1-340-491-3181,Company-93,Manager,Energy,United States,Trade Show,2024-11-28,83,1208338,Analytics Module,DISQUALIFIED
+LEAD-00294,First294,Last94,lead294@company44.com,+1-559-839-4490,Company-94,Manager,Retail,,Partner,2024-04-21,81,-999,Platform License,NEW
+LEAD-00295,First295,Last95,lead295@company45.com,+1-343-870-3017,Company-95,Director IT,Finance,Germany,Email Campaign,2024-05-21,76,0,Platform License,CONTACTED
+LEAD-00296,First296,Last96,lead296@company46.com,+1-766-715-5668,Company-96,CTO,Energy,usa,Trade Show,2024-04-06,,0,Security Package,QUALIFIED
+LEAD-00297,First297,Last97,lead297@company47.com,+1-861-155-4921,Company-97,CTO,Healthcare,US,Trade Show,2024-02-06,64,3247042,Platform License,QUALIFIED
+LEAD-00298,First298,Last98,lead298@company48.com,+1-524-235-7337,Company-98,Manager,Retail,Germany,Partner,2024-08-29,73,0,Platform License,NEW
+LEAD-00299,First299,Last99,lead299@company49.com,+1-801-169-1225,Company-99,VP Sales,Logistics,Japan,Trade Show,2024-05-26,34,1819782,Security Package,DISQUALIFIED
+LEAD-00300,First300,Last100,INVALID_EMAIL,,Company-0,CEO,Energy,UNKNOWN,Trade Show,3/9/2024,90,3384547,Platform License,QUALIFIED
+LEAD-00301,First301,Last101,lead301@company1.com,+1-280-623-4329,Company-1,Director IT,Energy,US,Partner,2025-03-03,20,0,Platform License,QUALIFIED
+LEAD-00302,First302,Last102,lead302@company2.com,+1-915-547-4909,Company-2,Director IT,Technology,,Trade Show,2024-11-07,8,2060844,Platform License,QUALIFIED
+LEAD-00303,First303,Last103,lead303@company3.com,+1-882-859-3877,Company-3,CEO,Technology,Germany,Referral,2025-05-02,16,,Data Integration Suite,CONVERTED
+LEAD-00304,First304,Last104,lead304@company4.com,+1-729-901-5247,Company-4,CTO,Retail,Australia,Cold Call,2025-03-29,HIGH,0,Platform License,NEW
+LEAD-00305,First305,Last105,lead305@company5.com,+1-543-926-8034,Company-5,CFO,Retail,usa,Cold Call,2024-02-09,35,4404407,Security Package,DISQUALIFIED
+LEAD-00306,First306,Last106,lead306@company6.com,+1-723-468-1908,Company-6,CFO,Manufacturing,Australia,Partner,2024-02-22,64,,Platform License,CONTACTED
+LEAD-00307,First307,Last107,lead307@company7.com,+1-958-621-1042,Company-7,VP Sales,Healthcare,India,Referral,2025-04-16,6,,Analytics Module,CONTACTED
+LEAD-00308,First308,Last108,lead308@company8.com,+1-236-666-7870,Company-8,Director IT,Retail,India,LinkedIn,2025-02-26,29,,Platform License,CONVERTED
+LEAD-00309,First309,Last109,lead309@company9.com,+1-581-222-9225,Company-9,CTO,Logistics,UNKNOWN,Web,2025-05-03,87,,Security Package,NEW
+LEAD-00310,First310,Last110,lead310@company10.com,,Company-10,CFO,Technology,UNKNOWN,Referral,2024-01-05,60,0,Data Integration Suite,CONTACTED
+LEAD-00311,First311,Last111,lead311@company11.com,+1-498-677-5979,Company-11,CFO,Energy,,Partner,2025-02-01,95,-999,Analytics Module,
+LEAD-00312,First312,Last112,lead312@company12.com,+1-759-878-5016,Company-12,Director IT,Technology,Canada,Trade Show,2024-06-26,,1273042,Platform License,QUALIFIED
+LEAD-00313,First313,Last113,lead313@company13.com,+1-201-877-7164,Company-13,CTO,Energy,Canada,Referral,2024-09-08,95,2589586,Platform License,CONTACTED
+LEAD-00314,First314,Last114,lead314@company14.com,+1-928-386-2524,Company-14,CEO,Finance,,Cold Call,2024-02-13,6,-999,Platform License,CONVERTED
+LEAD-00315,First315,Last115,,+1-336-752-7461,Company-15,Director IT,Retail,Germany,Email Campaign,2024-05-29,10,4975181,Data Integration Suite,QUALIFIED
+LEAD-00316,First316,Last116,lead316@company16.com,+1-602-817-6345,Company-16,CTO,Technology,Canada,Email Campaign,2025-02-03,41,0,Platform License,CONTACTED
+LEAD-00317,First317,Last117,lead317@company17.com,+1-308-268-8365,Company-17,VP Sales,Energy,India,Partner,2024-04-16,60,-999,Security Package,QUALIFIED
+LEAD-00318,First318,Last118,lead318@company18.com,+1-674-371-2964,Company-18,,Retail,usa,Web,2024-04-20,12,0,Data Integration Suite,CONTACTED
+LEAD-00319,First319,Last119,lead319@company19.com,+1-293-828-5066,Company-19,CEO,Finance,Australia,Partner,2024-03-30,46,3333939,Platform License,DISQUALIFIED
+LEAD-00320,First320,Last120,lead320@company20.com,,Company-20,VP Sales,Healthcare,UK,Partner,3/4/2024,HIGH,,Platform License,NEW
+LEAD-00321,First321,Last121,lead321@company21.com,+1-999-327-3141,Company-21,CEO,Retail,US,Web,2024-10-25,26,0,Data Integration Suite,NEW
+LEAD-00322,First322,Last122,lead322@company22.com,+1-222-166-4239,Company-22,VP Sales,Logistics,India,Web,2024-01-22,83,,Security Package,NEW
+LEAD-00323,First323,Last123,lead323@company23.com,+1-372-687-8096,Company-23,VP Sales,Healthcare,US,Referral,2024-03-29,93,-999,Data Integration Suite,CONTACTED
+LEAD-00324,First324,Last124,lead324@company24.com,+1-391-381-5585,Company-24,Manager,Energy,usa,Email Campaign,2024-11-27,58,1256810,Data Integration Suite,DISQUALIFIED
+LEAD-00325,First325,Last125,lead325@company25.com,+1-621-663-8848,Company-25,Director IT,Manufacturing,Japan,Email Campaign,2024-11-25,8,0,Analytics Module,
+LEAD-00326,First326,Last126,lead326@company26.com,+1-756-913-1319,Company-26,Manager,Logistics,,LinkedIn,2025-04-12,49,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00327,First327,Last127,lead327@company27.com,+1-476-284-1427,Company-27,,Logistics,Australia,Web,2025-02-18,41,1847274,Security Package,CONVERTED
+LEAD-00328,First328,Last128,lead328@company28.com,+1-566-885-4813,Company-28,CTO,Retail,Canada,LinkedIn,2024-09-30,,1349029,Platform License,CONTACTED
+LEAD-00329,First329,Last129,lead329@company29.com,+1-789-966-7363,Company-29,CTO,Energy,India,Partner,2025-01-12,46,,Data Integration Suite,CONVERTED
+LEAD-00330,First330,Last130,INVALID_EMAIL,,Company-30,Manager,Manufacturing,,Trade Show,2024-06-07,4,,Analytics Module,DISQUALIFIED
+LEAD-00331,First331,Last131,lead331@company31.com,+1-238-192-1920,Company-31,Manager,Healthcare,United States,LinkedIn,2025-04-14,30,1845502,Analytics Module,CONTACTED
+LEAD-00332,First332,Last132,lead332@company32.com,+1-548-834-3907,Company-32,CTO,Energy,Germany,Partner,2024-02-26,42,509591,Data Integration Suite,NEW
+LEAD-00333,First333,Last133,lead333@company33.com,+1-582-821-7481,Company-33,CFO,Finance,Germany,Email Campaign,2025-01-09,76,0,Security Package,
+LEAD-00334,First334,Last134,lead334@company34.com,+1-698-764-6198,Company-34,CTO,Retail,usa,Partner,2024-03-30,23,0,Security Package,QUALIFIED
+LEAD-00335,First335,Last135,lead335@company35.com,+1-951-805-5825,Company-35,CEO,Energy,Japan,Partner,2025-01-29,17,1500725,Platform License,CONTACTED
+LEAD-00336,First336,Last136,lead336@company36.com,+1-816-425-4619,Company-36,Director IT,Manufacturing,India,Cold Call,2024-02-09,HIGH,4754179,Analytics Module,QUALIFIED
+LEAD-00337,First337,Last137,lead337@company37.com,+1-527-271-2453,Company-37,VP Sales,Finance,Canada,Email Campaign,2024-12-20,91,-999,Platform License,QUALIFIED
+LEAD-00338,First338,Last138,lead338@company38.com,+1-462-905-2770,Company-38,Director IT,Healthcare,Japan,Email Campaign,2025-03-28,93,20747,Security Package,DISQUALIFIED
+LEAD-00339,First339,Last139,lead339@company39.com,+1-587-459-9946,Company-39,,Logistics,usa,Cold Call,2025-01-23,49,-999,Analytics Module,CONTACTED
+LEAD-00340,First340,Last140,lead340@company40.com,,Company-40,CFO,Technology,India,LinkedIn,2/3/2024,58,628319,Data Integration Suite,CONTACTED
+LEAD-00341,First341,Last141,lead341@company41.com,+1-584-264-2228,Company-41,Manager,Energy,,Cold Call,2024-01-16,71,0,Security Package,
+LEAD-00342,First342,Last142,lead342@company42.com,+1-368-721-8113,Company-42,CFO,Manufacturing,Canada,Referral,2024-12-22,21,459258,Data Integration Suite,
+LEAD-00343,First343,Last143,lead343@company43.com,+1-488-404-4891,Company-43,Manager,Energy,,Email Campaign,2024-01-28,13,-999,Data Integration Suite,NEW
+LEAD-00344,First344,Last144,lead344@company44.com,+1-637-189-5825,Company-44,VP Sales,Technology,Canada,Email Campaign,2024-11-22,,,Data Integration Suite,NEW
+LEAD-00345,First345,Last145,,+1-684-964-2892,Company-45,Director IT,Retail,Australia,Web,2024-11-24,40,-999,Security Package,CONTACTED
+LEAD-00346,First346,Last146,lead346@company46.com,+1-579-490-7052,Company-46,CFO,Healthcare,,LinkedIn,2024-04-25,24,3749434,Data Integration Suite,CONVERTED
+LEAD-00347,First347,Last147,lead347@company47.com,+1-263-254-2584,Company-47,,Energy,Canada,Trade Show,2024-02-01,11,-999,Security Package,CONVERTED
+LEAD-00348,First348,Last148,lead348@company48.com,+1-628-648-8779,Company-48,CFO,Technology,Japan,Partner,2024-12-31,74,-999,Platform License,CONVERTED
+LEAD-00349,First349,Last149,lead349@company49.com,+1-784-629-3415,Company-49,CTO,Manufacturing,Canada,Email Campaign,2024-01-22,16,,Security Package,NEW
+LEAD-00350,First350,Last150,lead350@company0.com,,Company-50,,Retail,Germany,Partner,2024-10-31,88,,Data Integration Suite,QUALIFIED
+LEAD-00351,First351,Last151,lead351@company1.com,+1-944-926-2097,Company-51,Manager,Finance,Australia,Trade Show,2024-08-22,12,-999,Platform License,
+LEAD-00352,First352,Last152,lead352@company2.com,+1-838-701-9561,Company-52,Director IT,Manufacturing,Germany,Trade Show,2024-10-28,HIGH,3529808,Platform License,NEW
+LEAD-00353,First353,Last153,lead353@company3.com,+1-776-898-2654,Company-53,Director IT,Finance,Japan,Cold Call,2024-09-05,37,0,Security Package,NEW
+LEAD-00354,First354,Last154,lead354@company4.com,+1-376-382-7602,Company-54,Director IT,Finance,Canada,Web,2025-01-16,19,3379870,Security Package,QUALIFIED
+LEAD-00355,First355,Last155,lead355@company5.com,+1-581-120-6535,Company-55,,Healthcare,US,Web,2025-05-12,39,0,Analytics Module,CONTACTED
+LEAD-00356,First356,Last156,lead356@company6.com,+1-507-861-8259,Company-56,CEO,Healthcare,usa,Cold Call,2024-02-15,100,0,Analytics Module,DISQUALIFIED
+LEAD-00357,First357,Last157,lead357@company7.com,+1-416-943-7671,Company-57,,Technology,UNKNOWN,Partner,2024-03-22,95,0,Platform License,QUALIFIED
+LEAD-00358,First358,Last158,lead358@company8.com,+1-926-618-7609,Company-58,CTO,Manufacturing,Canada,Partner,2024-01-30,18,4408031,Analytics Module,NEW
+LEAD-00359,First359,Last159,lead359@company9.com,+1-667-151-6904,Company-59,CFO,Logistics,,Trade Show,2024-07-22,91,0,Platform License,
+LEAD-00360,First360,Last160,INVALID_EMAIL,,Company-60,CFO,Healthcare,usa,Referral,3/28/2024,,,Security Package,CONVERTED
+LEAD-00361,First361,Last161,lead361@company11.com,+1-764-458-6640,Company-61,CFO,Technology,Japan,Web,2024-03-24,21,2179796,Analytics Module,CONTACTED
+LEAD-00362,First362,Last162,lead362@company12.com,+1-862-330-4387,Company-62,,Logistics,US,Web,2024-08-30,35,3445195,Analytics Module,
+LEAD-00363,First363,Last163,lead363@company13.com,+1-377-715-1138,Company-63,CEO,Retail,US,LinkedIn,2024-08-04,29,0,Security Package,QUALIFIED
+LEAD-00364,First364,Last164,lead364@company14.com,+1-670-358-4575,Company-64,Manager,Technology,United States,Trade Show,2024-12-05,60,-999,Data Integration Suite,CONVERTED
+LEAD-00365,First365,Last165,lead365@company15.com,+1-862-708-5631,Company-65,VP Sales,Finance,Australia,Cold Call,2024-06-15,39,-999,Data Integration Suite,QUALIFIED
+LEAD-00366,First366,Last166,lead366@company16.com,+1-871-828-5895,Company-66,VP Sales,Logistics,usa,Referral,2024-12-04,25,,Data Integration Suite,
+LEAD-00367,First367,Last167,lead367@company17.com,+1-343-838-1417,Company-67,CFO,Healthcare,Japan,Referral,2025-01-12,84,0,Platform License,CONVERTED
+LEAD-00368,First368,Last168,lead368@company18.com,+1-925-685-4111,Company-68,CEO,Energy,US,Partner,2024-08-31,HIGH,,Data Integration Suite,CONVERTED
+LEAD-00369,First369,Last169,lead369@company19.com,+1-507-965-3785,Company-69,CFO,Technology,,Email Campaign,2025-01-14,85,,Data Integration Suite,
+LEAD-00370,First370,Last170,lead370@company20.com,,Company-70,CEO,Technology,Canada,LinkedIn,2024-04-24,72,0,Data Integration Suite,DISQUALIFIED
+LEAD-00371,First371,Last171,lead371@company21.com,+1-539-480-5269,Company-71,,Technology,,Web,2025-03-19,75,-999,Platform License,DISQUALIFIED
+LEAD-00372,First372,Last172,lead372@company22.com,+1-399-612-2963,Company-72,Director IT,Technology,Germany,Email Campaign,2024-04-12,88,0,Data Integration Suite,DISQUALIFIED
+LEAD-00373,First373,Last173,lead373@company23.com,+1-783-568-3346,Company-73,Director IT,Finance,US,Email Campaign,2024-06-09,41,1522942,Platform License,NEW
+LEAD-00374,First374,Last174,lead374@company24.com,+1-662-380-4430,Company-74,Director IT,Logistics,UK,Email Campaign,2024-11-10,98,,Security Package,
+LEAD-00375,First375,Last175,,+1-639-513-8029,Company-75,VP Sales,Energy,Canada,Cold Call,2024-07-10,62,3225491,Platform License,QUALIFIED
+LEAD-00376,First376,Last176,lead376@company26.com,+1-975-953-9700,Company-76,CEO,Technology,US,Cold Call,2024-05-07,,1608673,Analytics Module,
+LEAD-00377,First377,Last177,lead377@company27.com,+1-552-419-3112,Company-77,CTO,Technology,United States,LinkedIn,2025-04-30,14,0,Data Integration Suite,DISQUALIFIED
+LEAD-00378,First378,Last178,lead378@company28.com,+1-945-632-9587,Company-78,CFO,Healthcare,India,Partner,2024-04-06,44,,Analytics Module,DISQUALIFIED
+LEAD-00379,First379,Last179,lead379@company29.com,+1-219-333-4675,Company-79,CEO,Technology,usa,Trade Show,2024-03-27,94,,Platform License,QUALIFIED
+LEAD-00380,First380,Last180,lead380@company30.com,,Company-80,CEO,Finance,UNKNOWN,Trade Show,1/20/2024,92,-999,Platform License,
+LEAD-00381,First381,Last181,lead381@company31.com,+1-310-769-1323,Company-81,Director IT,Healthcare,UK,Trade Show,2024-05-09,7,-999,Security Package,
+LEAD-00382,First382,Last182,lead382@company32.com,+1-356-310-1152,Company-82,CEO,Energy,Australia,Trade Show,2024-11-06,39,3540525,Analytics Module,DISQUALIFIED
+LEAD-00383,First383,Last183,lead383@company33.com,+1-307-623-2928,Company-83,Director IT,Manufacturing,usa,Email Campaign,2025-02-02,37,966406,Data Integration Suite,CONVERTED
+LEAD-00384,First384,Last184,lead384@company34.com,+1-406-466-7713,Company-84,VP Sales,Energy,,Email Campaign,2024-12-18,HIGH,,Security Package,QUALIFIED
+LEAD-00385,First385,Last185,lead385@company35.com,+1-440-102-1208,Company-85,,Energy,US,Referral,2024-03-17,86,756609,Platform License,CONVERTED
+LEAD-00386,First386,Last186,lead386@company36.com,+1-276-840-2659,Company-86,CFO,Finance,,Web,2024-02-21,33,-999,Analytics Module,NEW
+LEAD-00387,First387,Last187,lead387@company37.com,+1-497-468-6123,Company-87,,Logistics,United States,Web,2025-03-12,55,982248,Analytics Module,
+LEAD-00388,First388,Last188,lead388@company38.com,+1-862-274-6384,Company-88,CEO,Technology,India,Partner,2024-06-24,46,0,Analytics Module,NEW
+LEAD-00389,First389,Last189,lead389@company39.com,+1-610-509-8479,Company-89,,Healthcare,US,Partner,2024-03-26,35,-999,Platform License,CONTACTED
+LEAD-00390,First390,Last190,INVALID_EMAIL,,Company-90,VP Sales,Healthcare,usa,Referral,2025-02-14,90,,Security Package,CONTACTED
+LEAD-00391,First391,Last191,lead391@company41.com,+1-825-488-6875,Company-91,Director IT,Healthcare,UK,Referral,2024-08-13,79,,Platform License,NEW
+LEAD-00392,First392,Last192,lead392@company42.com,+1-467-770-6148,Company-92,CEO,Logistics,India,Trade Show,2024-09-24,,,Platform License,DISQUALIFIED
+LEAD-00393,First393,Last193,lead393@company43.com,+1-877-844-5072,Company-93,CTO,Logistics,UNKNOWN,Trade Show,2024-01-28,62,-999,Platform License,
+LEAD-00394,First394,Last194,lead394@company44.com,+1-360-617-8688,Company-94,,Healthcare,India,Email Campaign,2024-06-18,64,1397508,Data Integration Suite,NEW
+LEAD-00395,First395,Last195,lead395@company45.com,+1-719-328-7203,Company-95,Director IT,Healthcare,usa,Referral,2024-02-15,52,1981322,Security Package,DISQUALIFIED
+LEAD-00396,First396,Last196,lead396@company46.com,+1-523-221-9148,Company-96,Director IT,Healthcare,United States,Trade Show,2024-10-08,96,159058,Platform License,NEW
+LEAD-00397,First397,Last197,lead397@company47.com,+1-818-733-5990,Company-97,CEO,Retail,,LinkedIn,2024-07-05,66,,Platform License,CONTACTED
+LEAD-00398,First398,Last198,lead398@company48.com,+1-665-439-8751,Company-98,VP Sales,Technology,US,Email Campaign,2024-01-02,92,-999,Data Integration Suite,QUALIFIED
+LEAD-00399,First399,Last199,lead399@company49.com,+1-848-919-5783,Company-99,CEO,Technology,United States,Email Campaign,2024-09-09,71,0,Analytics Module,
+LEAD-00400,First400,Last0,lead400@company0.com,,Company-0,CFO,Energy,Canada,Email Campaign,2/28/2024,HIGH,3442708,Security Package,CONTACTED
+LEAD-00401,First401,Last1,lead401@company1.com,+1-668-944-4122,Company-1,,Healthcare,United States,Cold Call,2025-03-04,92,2844792,Platform License,DISQUALIFIED
+LEAD-00402,First402,Last2,lead402@company2.com,+1-668-774-9260,Company-2,Manager,Retail,United States,Trade Show,2025-04-23,18,4194477,Security Package,CONVERTED
+LEAD-00403,First403,Last3,lead403@company3.com,+1-694-620-3903,Company-3,CEO,Logistics,Germany,Web,2024-07-17,89,,Data Integration Suite,CONVERTED
+LEAD-00404,First404,Last4,lead404@company4.com,+1-593-528-5067,Company-4,CFO,Healthcare,Germany,Email Campaign,2024-07-30,36,0,Data Integration Suite,
+LEAD-00405,First405,Last5,,+1-760-981-6143,Company-5,CTO,Manufacturing,usa,Cold Call,2024-05-28,92,,Data Integration Suite,
+LEAD-00406,First406,Last6,lead406@company6.com,+1-335-827-3913,Company-6,CEO,Technology,India,Trade Show,2024-09-02,65,0,Security Package,
+LEAD-00407,First407,Last7,lead407@company7.com,+1-965-961-9747,Company-7,Manager,Technology,United States,Referral,2024-03-15,37,3553233,Platform License,
+LEAD-00408,First408,Last8,lead408@company8.com,+1-257-304-5374,Company-8,CEO,Finance,Germany,Partner,2024-02-01,,0,Data Integration Suite,CONTACTED
+LEAD-00409,First409,Last9,lead409@company9.com,+1-971-654-1529,Company-9,Manager,Logistics,US,Cold Call,2024-10-14,46,3806637,Analytics Module,
+LEAD-00410,First410,Last10,lead410@company10.com,,Company-10,CTO,Energy,Australia,Cold Call,2024-12-06,83,-999,Platform License,DISQUALIFIED
+LEAD-00411,First411,Last11,lead411@company11.com,+1-596-526-6122,Company-11,CEO,Finance,Canada,Trade Show,2025-03-20,71,461325,Security Package,CONTACTED
+LEAD-00412,First412,Last12,lead412@company12.com,+1-848-821-7025,Company-12,,Retail,Canada,LinkedIn,2024-08-17,97,,Analytics Module,
+LEAD-00413,First413,Last13,lead413@company13.com,+1-276-291-3847,Company-13,Director IT,Technology,Japan,LinkedIn,2024-10-11,95,4320459,Data Integration Suite,CONTACTED
+LEAD-00414,First414,Last14,lead414@company14.com,+1-364-698-5178,Company-14,CEO,Manufacturing,United States,Email Campaign,2025-04-20,1,-999,Data Integration Suite,CONVERTED
+LEAD-00415,First415,Last15,lead415@company15.com,+1-252-892-5934,Company-15,VP Sales,Logistics,India,Trade Show,2024-04-22,63,0,Analytics Module,CONVERTED
+LEAD-00416,First416,Last16,lead416@company16.com,+1-269-905-9276,Company-16,Manager,Energy,Japan,Web,2024-06-27,HIGH,-999,Analytics Module,CONTACTED
+LEAD-00417,First417,Last17,lead417@company17.com,+1-879-439-6424,Company-17,,Energy,UNKNOWN,Referral,2024-10-14,47,,Platform License,NEW
+LEAD-00418,First418,Last18,lead418@company18.com,+1-884-454-8301,Company-18,CEO,Finance,Japan,Partner,2025-04-28,31,2055370,Platform License,DISQUALIFIED
+LEAD-00419,First419,Last19,lead419@company19.com,+1-462-653-5633,Company-19,Manager,Logistics,UNKNOWN,Referral,2024-09-06,4,0,Platform License,QUALIFIED
+LEAD-00420,First420,Last20,INVALID_EMAIL,,Company-20,Manager,Technology,UK,Email Campaign,9/18/2024,84,0,Platform License,
+LEAD-00421,First421,Last21,lead421@company21.com,+1-267-315-4492,Company-21,CTO,Energy,Japan,Cold Call,2025-02-22,88,3568526,Platform License,
+LEAD-00422,First422,Last22,lead422@company22.com,+1-902-257-1389,Company-22,VP Sales,Technology,United States,Email Campaign,2025-02-10,59,2792630,Data Integration Suite,CONVERTED
+LEAD-00423,First423,Last23,lead423@company23.com,+1-272-688-4729,Company-23,Director IT,Retail,Japan,Referral,2024-06-10,34,-999,Platform License,DISQUALIFIED
+LEAD-00424,First424,Last24,lead424@company24.com,+1-889-221-9762,Company-24,,Retail,usa,Web,2024-12-24,,59483,Platform License,QUALIFIED
+LEAD-00425,First425,Last25,lead425@company25.com,+1-714-208-5748,Company-25,CFO,Logistics,,Referral,2024-07-21,88,2537912,Platform License,DISQUALIFIED
+LEAD-00426,First426,Last26,lead426@company26.com,+1-360-646-4602,Company-26,CEO,Manufacturing,Australia,Cold Call,2025-03-30,18,0,Data Integration Suite,NEW
+LEAD-00427,First427,Last27,lead427@company27.com,+1-766-995-3316,Company-27,Manager,Energy,Japan,Trade Show,2024-10-07,16,360418,Platform License,QUALIFIED
+LEAD-00428,First428,Last28,lead428@company28.com,+1-415-866-6633,Company-28,CTO,Manufacturing,Canada,Trade Show,2025-03-03,28,,Data Integration Suite,CONTACTED
+LEAD-00429,First429,Last29,lead429@company29.com,+1-317-285-1891,Company-29,CEO,Energy,UK,LinkedIn,2024-12-09,97,-999,Platform License,QUALIFIED
+LEAD-00430,First430,Last30,lead430@company30.com,,Company-30,CFO,Finance,Germany,Cold Call,2024-12-01,13,-999,Analytics Module,NEW
+LEAD-00431,First431,Last31,lead431@company31.com,+1-491-734-2143,Company-31,Director IT,Finance,usa,Cold Call,2024-06-05,25,-999,Analytics Module,CONVERTED
+LEAD-00432,First432,Last32,lead432@company32.com,+1-780-473-6182,Company-32,VP Sales,Finance,Canada,Partner,2024-04-23,HIGH,,Security Package,QUALIFIED
+LEAD-00433,First433,Last33,lead433@company33.com,+1-568-237-6432,Company-33,CFO,Logistics,Australia,Referral,2024-10-09,62,-999,Platform License,CONTACTED
+LEAD-00434,First434,Last34,lead434@company34.com,+1-861-721-2343,Company-34,CFO,Retail,US,Web,2025-01-07,36,,Platform License,NEW
+LEAD-00435,First435,Last35,,+1-719-746-1511,Company-35,,Energy,Canada,Web,2024-10-09,75,-999,Data Integration Suite,CONVERTED
+LEAD-00436,First436,Last36,lead436@company36.com,+1-752-583-3435,Company-36,,Energy,Australia,Email Campaign,2024-08-25,47,,Platform License,DISQUALIFIED
+LEAD-00437,First437,Last37,lead437@company37.com,+1-572-614-1173,Company-37,,Energy,Germany,Referral,2024-03-22,85,,Analytics Module,CONVERTED
+LEAD-00438,First438,Last38,lead438@company38.com,+1-779-775-3395,Company-38,VP Sales,Manufacturing,,Email Campaign,2024-02-02,95,0,Data Integration Suite,QUALIFIED
+LEAD-00439,First439,Last39,lead439@company39.com,+1-439-143-4387,Company-39,Director IT,Healthcare,United States,Web,2024-11-28,67,-999,Data Integration Suite,NEW
+LEAD-00440,First440,Last40,lead440@company40.com,,Company-40,,Retail,Australia,Trade Show,9/19/2024,,0,Analytics Module,DISQUALIFIED
+LEAD-00441,First441,Last41,lead441@company41.com,+1-869-487-6985,Company-41,Director IT,Manufacturing,UNKNOWN,Referral,2024-06-29,76,0,Data Integration Suite,DISQUALIFIED
+LEAD-00442,First442,Last42,lead442@company42.com,+1-693-718-1108,Company-42,CTO,Manufacturing,UK,Trade Show,2024-11-25,65,-999,Data Integration Suite,CONTACTED
+LEAD-00443,First443,Last43,lead443@company43.com,+1-353-291-3578,Company-43,Director IT,Logistics,India,Cold Call,2024-02-28,47,,Security Package,
+LEAD-00444,First444,Last44,lead444@company44.com,+1-690-590-4452,Company-44,VP Sales,Manufacturing,United States,Email Campaign,2024-10-20,76,-999,Analytics Module,CONTACTED
+LEAD-00445,First445,Last45,lead445@company45.com,+1-844-624-1642,Company-45,CTO,Finance,Germany,Trade Show,2025-05-05,74,1241993,Security Package,CONVERTED
+LEAD-00446,First446,Last46,lead446@company46.com,+1-777-752-1305,Company-46,CTO,Healthcare,usa,Referral,2025-03-20,93,2387789,Security Package,CONTACTED
+LEAD-00447,First447,Last47,lead447@company47.com,+1-424-950-7730,Company-47,Manager,Retail,UNKNOWN,LinkedIn,2024-03-26,77,,Data Integration Suite,DISQUALIFIED
+LEAD-00448,First448,Last48,lead448@company48.com,+1-810-704-2127,Company-48,Director IT,Manufacturing,UK,Web,2024-04-13,HIGH,-999,Security Package,CONTACTED
+LEAD-00449,First449,Last49,lead449@company49.com,+1-820-198-3906,Company-49,VP Sales,Healthcare,US,Email Campaign,2025-04-06,61,337462,Platform License,
+LEAD-00450,First450,Last50,INVALID_EMAIL,,Company-50,CFO,Logistics,United States,Cold Call,2024-09-28,84,-999,Security Package,CONTACTED
+LEAD-00451,First451,Last51,lead451@company1.com,+1-693-908-7246,Company-51,Director IT,Manufacturing,Australia,Referral,2025-01-27,45,4951293,Analytics Module,NEW
+LEAD-00452,First452,Last52,lead452@company2.com,+1-490-712-9908,Company-52,VP Sales,Retail,United States,Trade Show,2024-09-24,53,,Platform License,CONVERTED
+LEAD-00453,First453,Last53,lead453@company3.com,+1-207-484-4365,Company-53,CFO,Technology,Germany,Referral,2024-11-29,89,-999,Data Integration Suite,QUALIFIED
+LEAD-00454,First454,Last54,lead454@company4.com,+1-748-533-6990,Company-54,,Manufacturing,Japan,Trade Show,2025-02-05,79,-999,Security Package,CONTACTED
+LEAD-00455,First455,Last55,lead455@company5.com,+1-579-672-8925,Company-55,,Retail,Japan,Cold Call,2024-03-11,33,0,Platform License,
+LEAD-00456,First456,Last56,lead456@company6.com,+1-435-557-3650,Company-56,Manager,Healthcare,India,Partner,2024-10-08,,,Platform License,CONTACTED
+LEAD-00457,First457,Last57,lead457@company7.com,+1-598-751-1086,Company-57,Manager,Healthcare,UK,Web,2024-05-14,12,-999,Analytics Module,QUALIFIED
+LEAD-00458,First458,Last58,lead458@company8.com,+1-281-723-1618,Company-58,Manager,Retail,UNKNOWN,LinkedIn,2024-12-30,93,-999,Platform License,CONTACTED
+LEAD-00459,First459,Last59,lead459@company9.com,+1-855-606-8192,Company-59,CTO,Technology,usa,Trade Show,2024-09-21,2,0,Analytics Module,CONVERTED
+LEAD-00460,First460,Last60,lead460@company10.com,,Company-60,CTO,Retail,United States,Email Campaign,2/9/2024,22,0,Security Package,QUALIFIED
+LEAD-00461,First461,Last61,lead461@company11.com,+1-885-504-7642,Company-61,CEO,Retail,UK,Web,2024-10-08,76,1690325,Data Integration Suite,
+LEAD-00462,First462,Last62,lead462@company12.com,+1-772-696-6703,Company-62,Manager,Manufacturing,,Referral,2024-10-21,45,,Platform License,QUALIFIED
+LEAD-00463,First463,Last63,lead463@company13.com,+1-379-516-9294,Company-63,Manager,Finance,India,Web,2025-02-15,14,4696134,Data Integration Suite,CONVERTED
+LEAD-00464,First464,Last64,lead464@company14.com,+1-788-356-8254,Company-64,,Manufacturing,India,Partner,2024-08-22,HIGH,-999,Security Package,CONVERTED
+LEAD-00465,First465,Last65,,+1-228-593-2904,Company-65,CEO,Logistics,Canada,Cold Call,2024-12-25,34,-999,Analytics Module,QUALIFIED
+LEAD-00466,First466,Last66,lead466@company16.com,+1-622-461-9462,Company-66,CTO,Finance,UK,Referral,2024-12-10,69,0,Data Integration Suite,NEW
+LEAD-00467,First467,Last67,lead467@company17.com,+1-767-282-8807,Company-67,Manager,Finance,Germany,Cold Call,2024-12-15,41,,Analytics Module,DISQUALIFIED
+LEAD-00468,First468,Last68,lead468@company18.com,+1-954-304-4847,Company-68,CTO,Manufacturing,Canada,Partner,2024-05-07,95,0,Data Integration Suite,CONTACTED
+LEAD-00469,First469,Last69,lead469@company19.com,+1-997-209-2964,Company-69,,Logistics,UNKNOWN,Web,2025-03-10,11,4142772,Security Package,QUALIFIED
+LEAD-00470,First470,Last70,lead470@company20.com,,Company-70,Manager,Logistics,Australia,Referral,2024-04-03,80,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00471,First471,Last71,lead471@company21.com,+1-427-868-3101,Company-71,Director IT,Energy,United States,Trade Show,2024-06-26,7,-999,Security Package,
+LEAD-00472,First472,Last72,lead472@company22.com,+1-994-278-8490,Company-72,CFO,Retail,United States,Web,2024-12-11,,-999,Analytics Module,DISQUALIFIED
+LEAD-00473,First473,Last73,lead473@company23.com,+1-794-203-6331,Company-73,Manager,Finance,Canada,LinkedIn,2024-08-29,47,,Data Integration Suite,QUALIFIED
+LEAD-00474,First474,Last74,lead474@company24.com,+1-388-610-7945,Company-74,CFO,Logistics,Japan,LinkedIn,2024-08-18,27,0,Analytics Module,CONVERTED
+LEAD-00475,First475,Last75,lead475@company25.com,+1-334-689-4744,Company-75,Manager,Healthcare,Japan,Email Campaign,2024-03-15,13,,Analytics Module,DISQUALIFIED
+LEAD-00476,First476,Last76,lead476@company26.com,+1-209-280-7906,Company-76,,Healthcare,Australia,LinkedIn,2024-10-14,64,0,Platform License,DISQUALIFIED
+LEAD-00477,First477,Last77,lead477@company27.com,+1-301-807-3676,Company-77,Director IT,Logistics,US,Web,2024-08-18,8,0,Data Integration Suite,QUALIFIED
+LEAD-00478,First478,Last78,lead478@company28.com,+1-569-468-5222,Company-78,VP Sales,Finance,US,Trade Show,2024-04-11,45,-999,Analytics Module,QUALIFIED
+LEAD-00479,First479,Last79,lead479@company29.com,+1-563-432-9363,Company-79,Director IT,Energy,Australia,Referral,2024-11-19,63,3759121,Analytics Module,CONTACTED
+LEAD-00480,First480,Last80,INVALID_EMAIL,,Company-80,CEO,Energy,usa,Referral,2/3/2024,HIGH,-999,Analytics Module,QUALIFIED
+LEAD-00481,First481,Last81,lead481@company31.com,+1-433-421-6191,Company-81,Manager,Retail,Japan,LinkedIn,2025-03-30,84,0,Security Package,QUALIFIED
+LEAD-00482,First482,Last82,lead482@company32.com,+1-965-701-9535,Company-82,CTO,Logistics,United States,Email Campaign,2025-01-07,58,,Analytics Module,
+LEAD-00483,First483,Last83,lead483@company33.com,+1-457-861-2311,Company-83,VP Sales,Technology,UK,Referral,2024-10-07,27,-999,Platform License,NEW
+LEAD-00484,First484,Last84,lead484@company34.com,+1-989-506-9584,Company-84,CFO,Energy,Germany,Web,2024-12-01,98,708361,Security Package,QUALIFIED
+LEAD-00485,First485,Last85,lead485@company35.com,+1-434-353-5655,Company-85,Manager,Logistics,Germany,Web,2024-01-18,57,,Data Integration Suite,QUALIFIED
+LEAD-00486,First486,Last86,lead486@company36.com,+1-687-578-9856,Company-86,CTO,Retail,UNKNOWN,Email Campaign,2024-10-29,35,-999,Security Package,
+LEAD-00487,First487,Last87,lead487@company37.com,+1-966-751-8126,Company-87,CFO,Healthcare,UNKNOWN,Email Campaign,2025-02-16,68,0,Platform License,DISQUALIFIED
+LEAD-00488,First488,Last88,lead488@company38.com,+1-515-474-7753,Company-88,CFO,Technology,United States,Trade Show,2025-02-21,,,Analytics Module,QUALIFIED
+LEAD-00489,First489,Last89,lead489@company39.com,+1-493-580-9767,Company-89,CFO,Technology,Japan,Partner,2024-05-29,2,-999,Analytics Module,NEW
+LEAD-00490,First490,Last90,lead490@company40.com,,Company-90,Director IT,Energy,Japan,Referral,2024-05-07,71,,Analytics Module,
+LEAD-00491,First491,Last91,lead491@company41.com,+1-954-761-7385,Company-91,VP Sales,Healthcare,US,Email Campaign,2024-09-21,49,0,Data Integration Suite,QUALIFIED
+LEAD-00492,First492,Last92,lead492@company42.com,+1-864-860-9715,Company-92,,Technology,Germany,Email Campaign,2024-05-28,35,,Platform License,
+LEAD-00493,First493,Last93,lead493@company43.com,+1-666-732-8418,Company-93,CFO,Technology,Germany,Web,2025-05-11,35,,Platform License,CONTACTED
+LEAD-00494,First494,Last94,lead494@company44.com,+1-304-388-5410,Company-94,CTO,Technology,Germany,Web,2024-09-09,17,3687705,Analytics Module,QUALIFIED
+LEAD-00495,First495,Last95,,+1-630-419-9165,Company-95,CFO,Technology,Germany,Web,2024-05-16,48,3899667,Security Package,NEW
+LEAD-00496,First496,Last96,lead496@company46.com,+1-756-581-3975,Company-96,,Healthcare,United States,Web,2025-05-13,HIGH,0,Analytics Module,DISQUALIFIED
+LEAD-00497,First497,Last97,lead497@company47.com,+1-989-553-5049,Company-97,Director IT,Retail,UK,Trade Show,2024-12-06,95,,Analytics Module,DISQUALIFIED
+LEAD-00498,First498,Last98,lead498@company48.com,+1-598-797-6113,Company-98,CEO,Energy,UNKNOWN,Web,2024-05-09,42,1340529,Security Package,
+LEAD-00499,First499,Last99,lead499@company49.com,+1-505-303-6905,Company-99,CTO,Retail,Japan,LinkedIn,2024-01-08,7,1836940,Analytics Module,QUALIFIED
+LEAD-00500,First500,Last100,lead500@company0.com,,Company-0,,Manufacturing,United States,Web,10/26/2024,75,-999,Security Package,
+LEAD-00501,First501,Last101,lead501@company1.com,+1-810-258-7084,Company-1,CTO,Healthcare,UK,Cold Call,2024-11-12,99,,Data Integration Suite,
+LEAD-00502,First502,Last102,lead502@company2.com,+1-261-161-6824,Company-2,CTO,Healthcare,Canada,LinkedIn,2024-10-12,83,1301161,Data Integration Suite,DISQUALIFIED
+LEAD-00503,First503,Last103,lead503@company3.com,+1-950-297-1349,Company-3,CEO,Manufacturing,Australia,Web,2024-09-05,89,0,Security Package,CONVERTED
+LEAD-00504,First504,Last104,lead504@company4.com,+1-501-655-9029,Company-4,Manager,Finance,India,Cold Call,2024-08-27,,,Data Integration Suite,CONVERTED
+LEAD-00505,First505,Last105,lead505@company5.com,+1-767-264-2128,Company-5,CFO,Logistics,Australia,Trade Show,2024-07-06,68,-999,Security Package,NEW
+LEAD-00506,First506,Last106,lead506@company6.com,+1-994-753-9289,Company-6,Manager,Logistics,India,Partner,2024-11-13,49,1566374,Analytics Module,QUALIFIED
+LEAD-00507,First507,Last107,lead507@company7.com,+1-938-164-9830,Company-7,,Energy,Germany,Trade Show,2024-05-24,50,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00508,First508,Last108,lead508@company8.com,+1-856-429-2809,Company-8,VP Sales,Logistics,Germany,Email Campaign,2025-03-23,13,4398924,Platform License,CONTACTED
+LEAD-00509,First509,Last109,lead509@company9.com,+1-309-597-4139,Company-9,CEO,Healthcare,UNKNOWN,Trade Show,2024-12-25,13,-999,Data Integration Suite,NEW
+LEAD-00510,First510,Last110,INVALID_EMAIL,,Company-10,VP Sales,Manufacturing,US,Referral,2025-04-20,47,1861556,Platform License,DISQUALIFIED
+LEAD-00511,First511,Last111,lead511@company11.com,+1-854-162-6913,Company-11,,Retail,United States,Partner,2024-11-11,72,0,Data Integration Suite,CONVERTED
+LEAD-00512,First512,Last112,lead512@company12.com,+1-241-851-2153,Company-12,CTO,Energy,UK,Web,2025-01-06,HIGH,2559336,Analytics Module,CONVERTED
+LEAD-00513,First513,Last113,lead513@company13.com,+1-594-294-4164,Company-13,Manager,Retail,UNKNOWN,Referral,2025-01-17,68,,Platform License,
+LEAD-00514,First514,Last114,lead514@company14.com,+1-790-466-8515,Company-14,CTO,Logistics,Germany,Trade Show,2024-07-24,90,3592564,Data Integration Suite,
+LEAD-00515,First515,Last115,lead515@company15.com,+1-361-646-8258,Company-15,,Finance,Japan,Partner,2024-11-20,46,0,Security Package,
+LEAD-00516,First516,Last116,lead516@company16.com,+1-531-723-4943,Company-16,Director IT,Logistics,UNKNOWN,Cold Call,2024-05-10,73,,Data Integration Suite,DISQUALIFIED
+LEAD-00517,First517,Last117,lead517@company17.com,+1-658-506-1003,Company-17,Manager,Technology,UNKNOWN,Email Campaign,2025-03-31,93,0,Data Integration Suite,NEW
+LEAD-00518,First518,Last118,lead518@company18.com,+1-507-327-4519,Company-18,Manager,Energy,UNKNOWN,Trade Show,2025-04-19,41,0,Analytics Module,NEW
+LEAD-00519,First519,Last119,lead519@company19.com,+1-238-571-6827,Company-19,CFO,Energy,Canada,Email Campaign,2024-05-11,20,0,Data Integration Suite,NEW
+LEAD-00520,First520,Last120,lead520@company20.com,,Company-20,Manager,Manufacturing,UK,Cold Call,6/26/2024,,-999,Security Package,CONTACTED
+LEAD-00521,First521,Last121,lead521@company21.com,+1-699-945-2562,Company-21,CEO,Logistics,usa,Referral,2024-02-10,77,2529881,Platform License,QUALIFIED
+LEAD-00522,First522,Last122,lead522@company22.com,+1-556-936-8115,Company-22,CEO,Retail,usa,Web,2024-11-20,54,,Security Package,NEW
+LEAD-00523,First523,Last123,lead523@company23.com,+1-512-636-1674,Company-23,CFO,Energy,Canada,Email Campaign,2024-01-26,41,,Security Package,DISQUALIFIED
+LEAD-00524,First524,Last124,lead524@company24.com,+1-970-709-9269,Company-24,CFO,Logistics,Japan,Email Campaign,2024-03-08,12,-999,Data Integration Suite,NEW
+LEAD-00525,First525,Last125,,+1-687-685-1807,Company-25,VP Sales,Healthcare,UNKNOWN,Referral,2025-01-31,71,0,Analytics Module,CONTACTED
+LEAD-00526,First526,Last126,lead526@company26.com,+1-692-672-4245,Company-26,Manager,Energy,UNKNOWN,Email Campaign,2024-05-04,63,,Platform License,QUALIFIED
+LEAD-00527,First527,Last127,lead527@company27.com,+1-995-540-6298,Company-27,VP Sales,Retail,Japan,Referral,2024-07-06,88,4841991,Data Integration Suite,CONTACTED
+LEAD-00528,First528,Last128,lead528@company28.com,+1-528-452-1396,Company-28,CFO,Energy,,Trade Show,2024-03-15,HIGH,,Security Package,NEW
+LEAD-00529,First529,Last129,lead529@company29.com,+1-439-304-7124,Company-29,CEO,Technology,Canada,Trade Show,2025-04-19,20,729863,Analytics Module,QUALIFIED
+LEAD-00530,First530,Last130,lead530@company30.com,,Company-30,CFO,Healthcare,,Web,2024-06-18,2,2889568,Analytics Module,
+LEAD-00531,First531,Last131,lead531@company31.com,+1-750-316-4339,Company-31,Manager,Healthcare,usa,Cold Call,2024-03-13,70,0,Platform License,DISQUALIFIED
+LEAD-00532,First532,Last132,lead532@company32.com,+1-796-779-9631,Company-32,VP Sales,Finance,Canada,Partner,2024-12-22,6,,Data Integration Suite,NEW
+LEAD-00533,First533,Last133,lead533@company33.com,+1-676-770-1136,Company-33,CEO,Logistics,US,LinkedIn,2025-03-18,9,0,Platform License,NEW
+LEAD-00534,First534,Last134,lead534@company34.com,+1-499-988-7332,Company-34,CFO,Healthcare,usa,Trade Show,2024-02-15,30,3203553,Analytics Module,CONTACTED
+LEAD-00535,First535,Last135,lead535@company35.com,+1-712-568-1352,Company-35,CFO,Healthcare,Japan,Cold Call,2024-03-21,6,0,Platform License,QUALIFIED
+LEAD-00536,First536,Last136,lead536@company36.com,+1-900-460-6822,Company-36,Manager,Finance,United States,Cold Call,2024-05-11,,,Security Package,NEW
+LEAD-00537,First537,Last137,lead537@company37.com,+1-768-386-4695,Company-37,CEO,Manufacturing,UK,Cold Call,2024-07-14,20,-999,Analytics Module,DISQUALIFIED
+LEAD-00538,First538,Last138,lead538@company38.com,+1-446-686-3502,Company-38,Director IT,Energy,Germany,Email Campaign,2024-11-30,55,0,Analytics Module,CONVERTED
+LEAD-00539,First539,Last139,lead539@company39.com,+1-754-800-4314,Company-39,Director IT,Logistics,Germany,Cold Call,2025-04-22,18,,Analytics Module,QUALIFIED
+LEAD-00540,First540,Last140,INVALID_EMAIL,,Company-40,CTO,Finance,Germany,Cold Call,1/25/2024,9,4685309,Data Integration Suite,DISQUALIFIED
+LEAD-00541,First541,Last141,lead541@company41.com,+1-621-410-8258,Company-41,,Manufacturing,UK,Email Campaign,2024-04-04,96,,Platform License,CONVERTED
+LEAD-00542,First542,Last142,lead542@company42.com,+1-831-373-4783,Company-42,CEO,Technology,India,Web,2024-12-18,77,,Security Package,CONTACTED
+LEAD-00543,First543,Last143,lead543@company43.com,+1-714-966-8680,Company-43,,Healthcare,,Referral,2024-03-11,92,,Analytics Module,CONTACTED
+LEAD-00544,First544,Last144,lead544@company44.com,+1-431-133-7694,Company-44,Director IT,Manufacturing,US,Email Campaign,2025-01-22,HIGH,0,Analytics Module,NEW
+LEAD-00545,First545,Last145,lead545@company45.com,+1-381-549-9027,Company-45,CTO,Healthcare,Japan,Partner,2024-01-22,89,-999,Security Package,
+LEAD-00546,First546,Last146,lead546@company46.com,+1-520-503-9784,Company-46,Director IT,Healthcare,United States,Email Campaign,2024-09-22,68,333061,Security Package,
+LEAD-00547,First547,Last147,lead547@company47.com,+1-240-671-7347,Company-47,CFO,Healthcare,Japan,LinkedIn,2025-01-31,67,,Data Integration Suite,DISQUALIFIED
+LEAD-00548,First548,Last148,lead548@company48.com,+1-370-532-5823,Company-48,Director IT,Logistics,US,Referral,2024-02-16,79,,Platform License,CONTACTED
+LEAD-00549,First549,Last149,lead549@company49.com,+1-997-699-9952,Company-49,CFO,Healthcare,United States,Email Campaign,2024-08-20,18,-999,Analytics Module,DISQUALIFIED
+LEAD-00550,First550,Last150,lead550@company0.com,,Company-50,CEO,Retail,Germany,Cold Call,2025-01-10,12,0,Platform License,NEW
+LEAD-00551,First551,Last151,lead551@company1.com,+1-316-823-8362,Company-51,Manager,Retail,Japan,Cold Call,2025-02-09,82,3054589,Analytics Module,DISQUALIFIED
+LEAD-00552,First552,Last152,lead552@company2.com,+1-763-489-1719,Company-52,Manager,Logistics,US,Partner,2024-03-17,,0,Analytics Module,CONTACTED
+LEAD-00553,First553,Last153,lead553@company3.com,+1-383-887-1840,Company-53,CEO,Logistics,,LinkedIn,2024-11-16,54,0,Analytics Module,NEW
+LEAD-00554,First554,Last154,lead554@company4.com,+1-334-307-1057,Company-54,Director IT,Healthcare,,Trade Show,2025-02-17,80,2133248,Platform License,CONVERTED
+LEAD-00555,First555,Last155,,+1-705-343-4553,Company-55,Director IT,Healthcare,UK,Trade Show,2024-11-03,76,-999,Platform License,CONTACTED
+LEAD-00556,First556,Last156,lead556@company6.com,+1-760-384-4401,Company-56,VP Sales,Retail,India,Web,2024-03-15,7,,Platform License,
+LEAD-00557,First557,Last157,lead557@company7.com,+1-791-958-5889,Company-57,VP Sales,Healthcare,Germany,Email Campaign,2024-12-10,43,745703,Data Integration Suite,CONVERTED
+LEAD-00558,First558,Last158,lead558@company8.com,+1-876-808-3906,Company-58,VP Sales,Technology,Australia,LinkedIn,2024-07-07,59,0,Security Package,NEW
+LEAD-00559,First559,Last159,lead559@company9.com,+1-976-537-2063,Company-59,VP Sales,Retail,Australia,LinkedIn,2024-09-26,38,,Security Package,CONVERTED
+LEAD-00560,First560,Last160,lead560@company10.com,,Company-60,Manager,Technology,UK,Trade Show,12/21/2024,HIGH,,Platform License,DISQUALIFIED
+LEAD-00561,First561,Last161,lead561@company11.com,+1-941-805-5705,Company-61,Manager,Energy,usa,LinkedIn,2025-04-19,55,0,Analytics Module,CONVERTED
+LEAD-00562,First562,Last162,lead562@company12.com,+1-776-608-9514,Company-62,,Manufacturing,usa,Email Campaign,2024-12-28,94,-999,Data Integration Suite,CONTACTED
+LEAD-00563,First563,Last163,lead563@company13.com,+1-201-221-1392,Company-63,,Energy,Japan,Referral,2024-01-24,60,,Data Integration Suite,QUALIFIED
+LEAD-00564,First564,Last164,lead564@company14.com,+1-773-925-4478,Company-64,CFO,Logistics,UK,LinkedIn,2024-06-02,2,0,Data Integration Suite,NEW
+LEAD-00565,First565,Last165,lead565@company15.com,+1-316-802-6460,Company-65,,Manufacturing,Canada,LinkedIn,2025-03-02,44,3332302,Data Integration Suite,
+LEAD-00566,First566,Last166,lead566@company16.com,+1-690-585-1582,Company-66,CTO,Retail,,Partner,2024-10-01,83,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00567,First567,Last167,lead567@company17.com,+1-623-860-1917,Company-67,Manager,Energy,United States,Email Campaign,2024-10-22,67,0,Data Integration Suite,QUALIFIED
+LEAD-00568,First568,Last168,lead568@company18.com,+1-267-252-5595,Company-68,Director IT,Retail,UNKNOWN,Partner,2024-03-25,,0,Security Package,CONTACTED
+LEAD-00569,First569,Last169,lead569@company19.com,+1-809-219-6050,Company-69,CFO,Healthcare,UK,Referral,2025-03-25,91,2648212,Analytics Module,QUALIFIED
+LEAD-00570,First570,Last170,INVALID_EMAIL,,Company-70,Manager,Finance,Germany,Web,2024-07-10,58,,Platform License,CONTACTED
+LEAD-00571,First571,Last171,lead571@company21.com,+1-294-554-9290,Company-71,CTO,Finance,,Cold Call,2025-03-23,4,,Data Integration Suite,QUALIFIED
+LEAD-00572,First572,Last172,lead572@company22.com,+1-346-887-2609,Company-72,CEO,Technology,,Referral,2024-12-31,67,,Platform License,NEW
+LEAD-00573,First573,Last173,lead573@company23.com,+1-518-145-2426,Company-73,VP Sales,Energy,US,Cold Call,2024-06-08,43,3926438,Platform License,CONVERTED
+LEAD-00574,First574,Last174,lead574@company24.com,+1-976-419-4438,Company-74,CFO,Finance,UNKNOWN,LinkedIn,2025-01-30,42,,Security Package,
+LEAD-00575,First575,Last175,lead575@company25.com,+1-320-379-3446,Company-75,VP Sales,Energy,UNKNOWN,Trade Show,2024-02-22,21,2305432,Analytics Module,CONVERTED
+LEAD-00576,First576,Last176,lead576@company26.com,+1-558-662-6218,Company-76,CEO,Logistics,Australia,Trade Show,2024-05-05,HIGH,,Analytics Module,NEW
+LEAD-00577,First577,Last177,lead577@company27.com,+1-518-727-6549,Company-77,CTO,Technology,,Cold Call,2024-01-26,70,3731586,Platform License,DISQUALIFIED
+LEAD-00578,First578,Last178,lead578@company28.com,+1-255-188-7987,Company-78,Manager,Finance,Australia,LinkedIn,2025-02-22,51,-999,Analytics Module,
+LEAD-00579,First579,Last179,lead579@company29.com,+1-976-786-9740,Company-79,VP Sales,Logistics,,Web,2024-08-21,11,,Data Integration Suite,
+LEAD-00580,First580,Last180,lead580@company30.com,,Company-80,CTO,Manufacturing,Germany,Partner,10/9/2024,83,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00581,First581,Last181,lead581@company31.com,+1-387-816-6412,Company-81,VP Sales,Technology,,Web,2024-06-28,42,-999,Security Package,DISQUALIFIED
+LEAD-00582,First582,Last182,lead582@company32.com,+1-374-389-6711,Company-82,Manager,Technology,Japan,Partner,2024-12-31,78,,Platform License,QUALIFIED
+LEAD-00583,First583,Last183,lead583@company33.com,+1-769-765-2162,Company-83,Director IT,Energy,Japan,Email Campaign,2024-11-13,39,-999,Analytics Module,CONVERTED
+LEAD-00584,First584,Last184,lead584@company34.com,+1-362-593-7288,Company-84,CTO,Logistics,usa,Referral,2025-02-05,,0,Security Package,CONVERTED
+LEAD-00585,First585,Last185,,+1-550-657-4869,Company-85,VP Sales,Energy,usa,Referral,2024-06-15,23,-999,Platform License,DISQUALIFIED
+LEAD-00586,First586,Last186,lead586@company36.com,+1-380-415-7648,Company-86,CFO,Healthcare,US,Cold Call,2024-02-01,9,-999,Platform License,CONTACTED
+LEAD-00587,First587,Last187,lead587@company37.com,+1-342-694-1003,Company-87,Director IT,Energy,Australia,Referral,2024-11-11,97,,Security Package,CONTACTED
+LEAD-00588,First588,Last188,lead588@company38.com,+1-410-797-6187,Company-88,Director IT,Retail,India,Web,2024-10-25,39,0,Platform License,CONVERTED
+LEAD-00589,First589,Last189,lead589@company39.com,+1-722-513-3089,Company-89,Manager,Technology,United States,Cold Call,2024-10-13,38,0,Data Integration Suite,NEW
+LEAD-00590,First590,Last190,lead590@company40.com,,Company-90,Director IT,Retail,usa,Referral,2024-11-16,37,,Data Integration Suite,
+LEAD-00591,First591,Last191,lead591@company41.com,+1-591-515-7251,Company-91,CEO,Manufacturing,,Email Campaign,2024-04-06,56,,Security Package,QUALIFIED
+LEAD-00592,First592,Last192,lead592@company42.com,+1-627-257-5726,Company-92,VP Sales,Technology,US,Web,2024-03-14,HIGH,,Security Package,
+LEAD-00593,First593,Last193,lead593@company43.com,+1-647-239-2387,Company-93,,Retail,usa,Referral,2024-11-15,18,-999,Analytics Module,DISQUALIFIED
+LEAD-00594,First594,Last194,lead594@company44.com,+1-721-534-8373,Company-94,CTO,Healthcare,usa,Web,2024-10-22,50,,Security Package,
+LEAD-00595,First595,Last195,lead595@company45.com,+1-442-829-9220,Company-95,VP Sales,Technology,usa,Referral,2024-12-26,35,0,Data Integration Suite,NEW
+LEAD-00596,First596,Last196,lead596@company46.com,+1-794-593-2311,Company-96,Director IT,Energy,UK,Trade Show,2025-03-31,19,0,Platform License,CONTACTED
+LEAD-00597,First597,Last197,lead597@company47.com,+1-683-745-2279,Company-97,Manager,Technology,India,Trade Show,2025-02-02,88,0,Platform License,DISQUALIFIED
+LEAD-00598,First598,Last198,lead598@company48.com,+1-664-624-8687,Company-98,CFO,Logistics,Australia,LinkedIn,2024-03-26,74,-999,Platform License,
+LEAD-00599,First599,Last199,lead599@company49.com,+1-811-867-5981,Company-99,VP Sales,Retail,,Trade Show,2024-03-27,94,0,Platform License,
+LEAD-00600,First600,Last0,INVALID_EMAIL,,Company-0,CFO,Healthcare,UK,Email Campaign,9/3/2024,,2457403,Data Integration Suite,QUALIFIED
+LEAD-00601,First601,Last1,lead601@company1.com,+1-335-730-5603,Company-1,CEO,Technology,usa,Email Campaign,2025-04-10,36,2165500,Analytics Module,
+LEAD-00602,First602,Last2,lead602@company2.com,+1-657-478-3873,Company-2,CTO,Logistics,UNKNOWN,Partner,2024-01-17,34,-999,Data Integration Suite,NEW
+LEAD-00603,First603,Last3,lead603@company3.com,+1-348-709-3525,Company-3,CTO,Retail,,Cold Call,2024-11-22,64,-999,Analytics Module,CONTACTED
+LEAD-00604,First604,Last4,lead604@company4.com,+1-791-851-6653,Company-4,VP Sales,Manufacturing,,Referral,2024-08-31,7,2227910,Data Integration Suite,DISQUALIFIED
+LEAD-00605,First605,Last5,lead605@company5.com,+1-964-870-9724,Company-5,Director IT,Finance,Germany,Trade Show,2025-03-21,30,-999,Security Package,NEW
+LEAD-00606,First606,Last6,lead606@company6.com,+1-495-916-8353,Company-6,VP Sales,Energy,US,LinkedIn,2025-05-04,49,2658188,Security Package,CONVERTED
+LEAD-00607,First607,Last7,lead607@company7.com,+1-867-978-5466,Company-7,,Technology,Australia,Cold Call,2024-10-26,43,0,Security Package,DISQUALIFIED
+LEAD-00608,First608,Last8,lead608@company8.com,+1-991-791-4961,Company-8,Manager,Finance,US,Cold Call,2024-04-02,HIGH,,Data Integration Suite,CONVERTED
+LEAD-00609,First609,Last9,lead609@company9.com,+1-210-788-1138,Company-9,VP Sales,Energy,UK,Cold Call,2024-08-16,9,-999,Data Integration Suite,CONTACTED
+LEAD-00610,First610,Last10,lead610@company10.com,,Company-10,CTO,Technology,United States,Trade Show,2024-02-17,93,0,Platform License,CONVERTED
+LEAD-00611,First611,Last11,lead611@company11.com,+1-872-955-4552,Company-11,VP Sales,Logistics,usa,Email Campaign,2024-07-11,77,1031649,Analytics Module,NEW
+LEAD-00612,First612,Last12,lead612@company12.com,+1-912-288-5150,Company-12,CEO,Healthcare,Australia,Partner,2024-08-06,38,3927107,Data Integration Suite,QUALIFIED
+LEAD-00613,First613,Last13,lead613@company13.com,+1-365-899-2212,Company-13,Director IT,Finance,United States,LinkedIn,2025-05-04,36,-999,Data Integration Suite,CONTACTED
+LEAD-00614,First614,Last14,lead614@company14.com,+1-651-171-9056,Company-14,CEO,Healthcare,UK,Email Campaign,2024-10-03,26,,Security Package,CONTACTED
+LEAD-00615,First615,Last15,,+1-828-758-2740,Company-15,VP Sales,Technology,UK,Trade Show,2025-01-07,57,2182618,Data Integration Suite,DISQUALIFIED
+LEAD-00616,First616,Last16,lead616@company16.com,+1-219-609-3438,Company-16,CEO,Healthcare,Australia,Email Campaign,2024-12-24,,17278,Data Integration Suite,DISQUALIFIED
+LEAD-00617,First617,Last17,lead617@company17.com,+1-788-103-9444,Company-17,Director IT,Healthcare,UK,Trade Show,2024-04-25,91,-999,Platform License,DISQUALIFIED
+LEAD-00618,First618,Last18,lead618@company18.com,+1-905-937-8898,Company-18,CFO,Retail,Australia,Referral,2024-01-29,16,0,Platform License,QUALIFIED
+LEAD-00619,First619,Last19,lead619@company19.com,+1-747-973-6571,Company-19,CEO,Manufacturing,Germany,Trade Show,2024-01-21,11,0,Security Package,
+LEAD-00620,First620,Last20,lead620@company20.com,,Company-20,VP Sales,Retail,India,Referral,2/21/2024,25,-999,Security Package,
+LEAD-00621,First621,Last21,lead621@company21.com,+1-394-243-1584,Company-21,Director IT,Healthcare,UK,Partner,2024-10-03,25,,Data Integration Suite,DISQUALIFIED
+LEAD-00622,First622,Last22,lead622@company22.com,+1-746-954-8361,Company-22,VP Sales,Finance,United States,Referral,2024-03-01,3,0,Analytics Module,
+LEAD-00623,First623,Last23,lead623@company23.com,+1-883-635-8509,Company-23,CEO,Energy,Canada,Web,2024-01-19,87,,Analytics Module,DISQUALIFIED
+LEAD-00624,First624,Last24,lead624@company24.com,+1-869-119-8720,Company-24,CEO,Retail,Germany,Web,2024-03-29,HIGH,,Platform License,QUALIFIED
+LEAD-00625,First625,Last25,lead625@company25.com,+1-299-567-3796,Company-25,VP Sales,Healthcare,usa,Partner,2024-11-11,76,546515,Analytics Module,NEW
+LEAD-00626,First626,Last26,lead626@company26.com,+1-407-536-6527,Company-26,VP Sales,Retail,usa,Trade Show,2024-03-11,95,0,Data Integration Suite,CONTACTED
+LEAD-00627,First627,Last27,lead627@company27.com,+1-982-146-3841,Company-27,CFO,Manufacturing,Japan,Email Campaign,2024-12-22,43,540343,Data Integration Suite,CONVERTED
+LEAD-00628,First628,Last28,lead628@company28.com,+1-368-549-4991,Company-28,VP Sales,Logistics,US,Trade Show,2024-07-11,75,,Analytics Module,NEW
+LEAD-00629,First629,Last29,lead629@company29.com,+1-698-182-1104,Company-29,CEO,Retail,usa,LinkedIn,2024-08-01,1,1515024,Security Package,
+LEAD-00630,First630,Last30,INVALID_EMAIL,,Company-30,CEO,Finance,UNKNOWN,Referral,2024-07-29,17,,Analytics Module,CONTACTED
+LEAD-00631,First631,Last31,lead631@company31.com,+1-825-808-1616,Company-31,Manager,Technology,US,Partner,2025-02-04,77,-999,Data Integration Suite,QUALIFIED
+LEAD-00632,First632,Last32,lead632@company32.com,+1-628-104-4860,Company-32,Manager,Technology,usa,LinkedIn,2025-03-17,,1619797,Analytics Module,DISQUALIFIED
+LEAD-00633,First633,Last33,lead633@company33.com,+1-988-741-4409,Company-33,VP Sales,Logistics,Germany,Cold Call,2025-03-08,36,,Security Package,DISQUALIFIED
+LEAD-00634,First634,Last34,lead634@company34.com,+1-380-263-1706,Company-34,CTO,Healthcare,Australia,LinkedIn,2024-11-11,7,0,Security Package,NEW
+LEAD-00635,First635,Last35,lead635@company35.com,+1-306-858-1859,Company-35,,Technology,,Trade Show,2024-02-29,69,,Platform License,CONTACTED
+LEAD-00636,First636,Last36,lead636@company36.com,+1-938-555-6340,Company-36,CTO,Logistics,UK,LinkedIn,2024-04-26,54,0,Platform License,CONTACTED
+LEAD-00637,First637,Last37,lead637@company37.com,+1-955-522-4276,Company-37,Director IT,Energy,,Web,2025-03-31,49,1861053,Security Package,CONTACTED
+LEAD-00638,First638,Last38,lead638@company38.com,+1-421-724-8454,Company-38,CTO,Healthcare,Canada,Cold Call,2024-07-02,23,0,Data Integration Suite,CONTACTED
+LEAD-00639,First639,Last39,lead639@company39.com,+1-543-230-1525,Company-39,CFO,Manufacturing,UK,Partner,2024-08-26,89,4780314,Security Package,DISQUALIFIED
+LEAD-00640,First640,Last40,lead640@company40.com,,Company-40,CTO,Finance,usa,Email Campaign,11/20/2024,HIGH,0,Analytics Module,CONVERTED
+LEAD-00641,First641,Last41,lead641@company41.com,+1-766-975-4763,Company-41,,Manufacturing,usa,Referral,2025-03-04,12,-999,Security Package,QUALIFIED
+LEAD-00642,First642,Last42,lead642@company42.com,+1-214-847-8014,Company-42,CFO,Healthcare,usa,Email Campaign,2025-04-01,95,,Analytics Module,CONVERTED
+LEAD-00643,First643,Last43,lead643@company43.com,+1-205-527-1724,Company-43,Director IT,Energy,Japan,Referral,2025-02-18,6,3958120,Platform License,DISQUALIFIED
+LEAD-00644,First644,Last44,lead644@company44.com,+1-707-346-2361,Company-44,CTO,Manufacturing,India,LinkedIn,2024-05-02,72,-999,Platform License,NEW
+LEAD-00645,First645,Last45,,+1-691-785-5994,Company-45,Director IT,Healthcare,Germany,Partner,2024-12-26,21,3862743,Security Package,CONTACTED
+LEAD-00646,First646,Last46,lead646@company46.com,+1-579-741-8607,Company-46,Director IT,Retail,India,Trade Show,2024-01-17,91,21439,Data Integration Suite,DISQUALIFIED
+LEAD-00647,First647,Last47,lead647@company47.com,+1-970-376-9887,Company-47,Manager,Finance,United States,Trade Show,2025-04-29,74,1747670,Data Integration Suite,NEW
+LEAD-00648,First648,Last48,lead648@company48.com,+1-313-492-6989,Company-48,CFO,Finance,Germany,Cold Call,2024-10-13,,3913662,Platform License,CONVERTED
+LEAD-00649,First649,Last49,lead649@company49.com,+1-926-892-4354,Company-49,Manager,Technology,US,Referral,2025-01-12,18,,Analytics Module,
+LEAD-00650,First650,Last50,lead650@company0.com,,Company-50,CFO,Finance,UNKNOWN,Cold Call,2024-08-04,98,0,Data Integration Suite,NEW
+LEAD-00651,First651,Last51,lead651@company1.com,+1-264-481-6656,Company-51,Director IT,Retail,UNKNOWN,Cold Call,2025-02-26,58,4088766,Data Integration Suite,DISQUALIFIED
+LEAD-00652,First652,Last52,lead652@company2.com,+1-835-476-2075,Company-52,VP Sales,Healthcare,Germany,LinkedIn,2025-05-05,25,3850926,Platform License,NEW
+LEAD-00653,First653,Last53,lead653@company3.com,+1-368-382-2835,Company-53,CTO,Logistics,Canada,Trade Show,2025-05-02,90,-999,Platform License,QUALIFIED
+LEAD-00654,First654,Last54,lead654@company4.com,+1-626-798-9870,Company-54,Director IT,Healthcare,US,Web,2024-05-29,17,0,Analytics Module,NEW
+LEAD-00655,First655,Last55,lead655@company5.com,+1-222-992-4806,Company-55,Manager,Finance,US,Cold Call,2025-02-06,67,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00656,First656,Last56,lead656@company6.com,+1-807-781-9686,Company-56,Director IT,Finance,usa,Email Campaign,2025-04-04,HIGH,-999,Data Integration Suite,CONTACTED
+LEAD-00657,First657,Last57,lead657@company7.com,+1-466-332-8933,Company-57,CTO,Finance,Australia,Referral,2025-05-04,48,2427146,Analytics Module,CONVERTED
+LEAD-00658,First658,Last58,lead658@company8.com,+1-364-828-9770,Company-58,,Retail,US,Partner,2024-03-19,37,,Analytics Module,CONTACTED
+LEAD-00659,First659,Last59,lead659@company9.com,+1-319-142-6187,Company-59,CFO,Finance,Germany,Email Campaign,2024-10-14,74,-999,Platform License,
+LEAD-00660,First660,Last60,INVALID_EMAIL,,Company-60,CFO,Healthcare,UNKNOWN,Email Campaign,9/10/2024,41,,Platform License,NEW
+LEAD-00661,First661,Last61,lead661@company11.com,+1-614-611-3381,Company-61,VP Sales,Retail,UNKNOWN,Trade Show,2024-06-18,59,,Data Integration Suite,DISQUALIFIED
+LEAD-00662,First662,Last62,lead662@company12.com,+1-496-872-3409,Company-62,CEO,Technology,,Web,2024-03-12,73,0,Platform License,QUALIFIED
+LEAD-00663,First663,Last63,lead663@company13.com,+1-225-511-4610,Company-63,CFO,Technology,usa,Cold Call,2024-04-09,58,3008034,Analytics Module,QUALIFIED
+LEAD-00664,First664,Last64,lead664@company14.com,+1-400-123-2369,Company-64,CEO,Retail,UK,Trade Show,2024-07-20,,-999,Analytics Module,DISQUALIFIED
+LEAD-00665,First665,Last65,lead665@company15.com,+1-525-717-9381,Company-65,CTO,Retail,Japan,LinkedIn,2024-07-16,8,-999,Data Integration Suite,NEW
+LEAD-00666,First666,Last66,lead666@company16.com,+1-491-453-6756,Company-66,CTO,Retail,,Cold Call,2024-07-31,40,3747762,Security Package,QUALIFIED
+LEAD-00667,First667,Last67,lead667@company17.com,+1-367-925-7944,Company-67,,Energy,usa,Web,2024-03-14,94,,Analytics Module,QUALIFIED
+LEAD-00668,First668,Last68,lead668@company18.com,+1-686-988-9606,Company-68,VP Sales,Technology,Japan,Cold Call,2025-04-13,43,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00669,First669,Last69,lead669@company19.com,+1-379-669-8571,Company-69,CTO,Manufacturing,Japan,LinkedIn,2024-10-10,91,,Security Package,NEW
+LEAD-00670,First670,Last70,lead670@company20.com,,Company-70,Director IT,Energy,,Email Campaign,2024-01-14,39,0,Platform License,CONTACTED
+LEAD-00671,First671,Last71,lead671@company21.com,+1-468-407-8742,Company-71,CTO,Healthcare,US,Email Campaign,2024-01-15,16,-999,Platform License,QUALIFIED
+LEAD-00672,First672,Last72,lead672@company22.com,+1-704-168-6927,Company-72,Manager,Healthcare,Australia,Cold Call,2024-12-17,HIGH,-999,Security Package,
+LEAD-00673,First673,Last73,lead673@company23.com,+1-322-482-9397,Company-73,,Finance,Germany,Trade Show,2024-01-30,94,4835661,Analytics Module,QUALIFIED
+LEAD-00674,First674,Last74,lead674@company24.com,+1-672-999-3219,Company-74,CFO,Finance,Japan,Cold Call,2025-04-11,46,1379933,Data Integration Suite,NEW
+LEAD-00675,First675,Last75,,+1-496-398-9677,Company-75,,Retail,Germany,Partner,2024-02-18,82,,Analytics Module,CONVERTED
+LEAD-00676,First676,Last76,lead676@company26.com,+1-530-993-6180,Company-76,CEO,Retail,India,Web,2024-09-30,88,0,Data Integration Suite,CONTACTED
+LEAD-00677,First677,Last77,lead677@company27.com,+1-213-240-9489,Company-77,Director IT,Finance,Germany,Web,2024-04-21,37,-999,Analytics Module,CONVERTED
+LEAD-00678,First678,Last78,lead678@company28.com,+1-426-951-4087,Company-78,Director IT,Healthcare,UK,Web,2025-02-23,72,4419495,Analytics Module,NEW
+LEAD-00679,First679,Last79,lead679@company29.com,+1-691-456-6104,Company-79,,Healthcare,usa,Trade Show,2025-01-25,89,,Data Integration Suite,CONTACTED
+LEAD-00680,First680,Last80,lead680@company30.com,,Company-80,CEO,Logistics,UK,Email Campaign,3/28/2024,,2565876,Analytics Module,
+LEAD-00681,First681,Last81,lead681@company31.com,+1-432-414-3053,Company-81,Director IT,Retail,UK,Web,2024-01-10,27,1102349,Security Package,DISQUALIFIED
+LEAD-00682,First682,Last82,lead682@company32.com,+1-243-301-2766,Company-82,Director IT,Technology,Australia,Web,2024-02-03,5,4317375,Data Integration Suite,
+LEAD-00683,First683,Last83,lead683@company33.com,+1-210-872-2581,Company-83,CTO,Retail,India,Web,2024-02-16,16,,Analytics Module,
+LEAD-00684,First684,Last84,lead684@company34.com,+1-484-693-6698,Company-84,Manager,Energy,UK,Web,2025-02-23,46,,Platform License,CONVERTED
+LEAD-00685,First685,Last85,lead685@company35.com,+1-422-832-4138,Company-85,CEO,Technology,Canada,Trade Show,2025-03-11,37,1450940,Security Package,QUALIFIED
+LEAD-00686,First686,Last86,lead686@company36.com,+1-914-703-4033,Company-86,,Finance,Japan,Referral,2024-04-19,57,,Analytics Module,DISQUALIFIED
+LEAD-00687,First687,Last87,lead687@company37.com,+1-315-879-6149,Company-87,Manager,Manufacturing,,Partner,2024-07-03,16,3918266,Data Integration Suite,CONVERTED
+LEAD-00688,First688,Last88,lead688@company38.com,+1-939-141-2347,Company-88,VP Sales,Healthcare,Australia,Referral,2024-11-03,HIGH,-999,Data Integration Suite,
+LEAD-00689,First689,Last89,lead689@company39.com,+1-654-331-7672,Company-89,,Technology,,Cold Call,2024-07-07,38,,Analytics Module,NEW
+LEAD-00690,First690,Last90,INVALID_EMAIL,,Company-90,Director IT,Healthcare,UNKNOWN,Cold Call,2024-12-12,87,4134245,Platform License,NEW
+LEAD-00691,First691,Last91,lead691@company41.com,+1-346-504-7563,Company-91,CEO,Manufacturing,UK,LinkedIn,2025-05-14,89,4963953,Analytics Module,QUALIFIED
+LEAD-00692,First692,Last92,lead692@company42.com,+1-405-709-7623,Company-92,CEO,Healthcare,Australia,Partner,2024-12-31,16,-999,Data Integration Suite,
+LEAD-00693,First693,Last93,lead693@company43.com,+1-609-464-8795,Company-93,Manager,Finance,Germany,Partner,2024-08-20,86,-999,Platform License,NEW
+LEAD-00694,First694,Last94,lead694@company44.com,+1-456-601-9147,Company-94,VP Sales,Retail,United States,Partner,2024-02-04,30,1139176,Security Package,
+LEAD-00695,First695,Last95,lead695@company45.com,+1-227-283-7269,Company-95,CFO,Energy,usa,Web,2025-01-24,78,,Platform License,
+LEAD-00696,First696,Last96,lead696@company46.com,+1-969-632-9064,Company-96,CFO,Retail,,Referral,2024-09-15,,,Data Integration Suite,CONVERTED
+LEAD-00697,First697,Last97,lead697@company47.com,+1-551-928-9856,Company-97,Director IT,Technology,Japan,Referral,2024-06-10,70,158229,Security Package,DISQUALIFIED
+LEAD-00698,First698,Last98,lead698@company48.com,+1-670-136-1538,Company-98,CEO,Manufacturing,,Referral,2024-03-09,23,0,Data Integration Suite,
+LEAD-00699,First699,Last99,lead699@company49.com,+1-598-599-2792,Company-99,Director IT,Energy,Germany,Trade Show,2024-01-29,73,-999,Security Package,QUALIFIED
+LEAD-00700,First700,Last100,lead700@company0.com,,Company-0,Manager,Retail,India,Partner,5/11/2024,64,-999,Platform License,NEW
+LEAD-00701,First701,Last101,lead701@company1.com,+1-804-146-3100,Company-1,,Retail,India,Referral,2024-02-19,47,2936590,Security Package,QUALIFIED
+LEAD-00702,First702,Last102,lead702@company2.com,+1-565-521-6755,Company-2,CTO,Retail,Australia,Trade Show,2024-02-13,8,,Platform License,QUALIFIED
+LEAD-00703,First703,Last103,lead703@company3.com,+1-317-445-3781,Company-3,VP Sales,Healthcare,US,Partner,2024-08-04,3,0,Security Package,QUALIFIED
+LEAD-00704,First704,Last104,lead704@company4.com,+1-220-812-8695,Company-4,CFO,Healthcare,usa,Referral,2024-06-14,HIGH,4942411,Platform License,DISQUALIFIED
+LEAD-00705,First705,Last105,,+1-302-807-4373,Company-5,CTO,Energy,Australia,LinkedIn,2025-05-11,44,0,Security Package,CONTACTED
+LEAD-00706,First706,Last106,lead706@company6.com,+1-708-750-2234,Company-6,CFO,Technology,Australia,Trade Show,2024-07-24,69,0,Analytics Module,CONVERTED
+LEAD-00707,First707,Last107,lead707@company7.com,+1-960-194-2552,Company-7,VP Sales,Energy,UNKNOWN,Referral,2024-08-06,76,0,Analytics Module,QUALIFIED
+LEAD-00708,First708,Last108,lead708@company8.com,+1-278-767-5945,Company-8,CEO,Energy,India,Email Campaign,2024-07-31,65,-999,Security Package,QUALIFIED
+LEAD-00709,First709,Last109,lead709@company9.com,+1-839-627-8425,Company-9,VP Sales,Retail,UNKNOWN,Partner,2024-04-05,86,,Security Package,CONTACTED
+LEAD-00710,First710,Last110,lead710@company10.com,,Company-10,CEO,Energy,usa,Partner,2025-01-28,85,0,Security Package,CONVERTED
+LEAD-00711,First711,Last111,lead711@company11.com,+1-944-741-1981,Company-11,Director IT,Manufacturing,Canada,Email Campaign,2025-01-17,67,0,Data Integration Suite,DISQUALIFIED
+LEAD-00712,First712,Last112,lead712@company12.com,+1-620-426-2055,Company-12,CFO,Logistics,Australia,Cold Call,2024-03-23,,-999,Data Integration Suite,
+LEAD-00713,First713,Last113,lead713@company13.com,+1-815-341-7649,Company-13,CTO,Technology,Canada,Partner,2025-02-27,31,,Data Integration Suite,DISQUALIFIED
+LEAD-00714,First714,Last114,lead714@company14.com,+1-697-673-8145,Company-14,CTO,Finance,Germany,Web,2024-05-12,55,,Data Integration Suite,
+LEAD-00715,First715,Last115,lead715@company15.com,+1-763-280-1691,Company-15,VP Sales,Logistics,UK,LinkedIn,2024-11-04,93,4085537,Data Integration Suite,NEW
+LEAD-00716,First716,Last116,lead716@company16.com,+1-616-472-2479,Company-16,VP Sales,Energy,UNKNOWN,Web,2024-09-24,51,,Data Integration Suite,DISQUALIFIED
+LEAD-00717,First717,Last117,lead717@company17.com,+1-292-343-3003,Company-17,,Energy,Japan,Partner,2025-01-18,99,0,Analytics Module,DISQUALIFIED
+LEAD-00718,First718,Last118,lead718@company18.com,+1-423-247-2750,Company-18,Director IT,Healthcare,Australia,Partner,2024-10-28,23,0,Platform License,DISQUALIFIED
+LEAD-00719,First719,Last119,lead719@company19.com,+1-746-483-2850,Company-19,Director IT,Retail,Canada,LinkedIn,2025-03-26,41,-999,Analytics Module,QUALIFIED
+LEAD-00720,First720,Last120,INVALID_EMAIL,,Company-20,,Finance,United States,Cold Call,10/2/2024,HIGH,0,Platform License,
+LEAD-00721,First721,Last121,lead721@company21.com,+1-887-345-5144,Company-21,CEO,Retail,India,Partner,2024-12-16,71,0,Platform License,CONVERTED
+LEAD-00722,First722,Last122,lead722@company22.com,+1-442-978-8248,Company-22,CFO,Finance,UK,Partner,2025-01-22,50,-999,Analytics Module,QUALIFIED
+LEAD-00723,First723,Last123,lead723@company23.com,+1-415-980-3625,Company-23,,Technology,Australia,Partner,2024-02-11,57,-999,Security Package,DISQUALIFIED
+LEAD-00724,First724,Last124,lead724@company24.com,+1-954-522-6451,Company-24,,Manufacturing,Australia,Trade Show,2024-02-03,92,3553062,Data Integration Suite,DISQUALIFIED
+LEAD-00725,First725,Last125,lead725@company25.com,+1-816-846-9973,Company-25,CEO,Technology,United States,Cold Call,2024-11-24,95,-999,Analytics Module,
+LEAD-00726,First726,Last126,lead726@company26.com,+1-654-910-3229,Company-26,CEO,Finance,India,Trade Show,2024-02-12,1,,Platform License,CONTACTED
+LEAD-00727,First727,Last127,lead727@company27.com,+1-455-628-3131,Company-27,Director IT,Healthcare,Germany,LinkedIn,2024-03-29,77,0,Data Integration Suite,QUALIFIED
+LEAD-00728,First728,Last128,lead728@company28.com,+1-403-186-7791,Company-28,Director IT,Healthcare,usa,Email Campaign,2024-01-11,,,Platform License,CONVERTED
+LEAD-00729,First729,Last129,lead729@company29.com,+1-862-726-4747,Company-29,CFO,Retail,Germany,Web,2024-07-24,12,,Security Package,CONVERTED
+LEAD-00730,First730,Last130,lead730@company30.com,,Company-30,CFO,Manufacturing,usa,Web,2024-01-08,34,1262009,Security Package,DISQUALIFIED
+LEAD-00731,First731,Last131,lead731@company31.com,+1-889-606-2941,Company-31,,Logistics,Australia,LinkedIn,2025-01-17,29,,Security Package,DISQUALIFIED
+LEAD-00732,First732,Last132,lead732@company32.com,+1-333-541-4385,Company-32,CEO,Retail,Canada,Referral,2024-04-02,77,0,Security Package,CONTACTED
+LEAD-00733,First733,Last133,lead733@company33.com,+1-229-397-5289,Company-33,CFO,Energy,US,Cold Call,2024-08-22,31,,Platform License,NEW
+LEAD-00734,First734,Last134,lead734@company34.com,+1-680-236-6296,Company-34,CEO,Healthcare,Japan,Cold Call,2024-11-01,89,,Data Integration Suite,NEW
+LEAD-00735,First735,Last135,,+1-297-670-1962,Company-35,Director IT,Finance,usa,Cold Call,2025-05-10,7,,Platform License,NEW
+LEAD-00736,First736,Last136,lead736@company36.com,+1-459-616-7241,Company-36,CEO,Finance,Germany,Trade Show,2024-01-22,HIGH,-999,Analytics Module,QUALIFIED
+LEAD-00737,First737,Last137,lead737@company37.com,+1-373-615-9074,Company-37,VP Sales,Finance,UNKNOWN,Referral,2024-03-13,44,,Data Integration Suite,NEW
+LEAD-00738,First738,Last138,lead738@company38.com,+1-520-145-3095,Company-38,Director IT,Finance,Australia,Trade Show,2025-02-28,64,0,Data Integration Suite,CONVERTED
+LEAD-00739,First739,Last139,lead739@company39.com,+1-520-546-3703,Company-39,Manager,Logistics,US,Cold Call,2025-02-12,41,,Security Package,NEW
+LEAD-00740,First740,Last140,lead740@company40.com,,Company-40,CTO,Manufacturing,United States,Referral,5/6/2024,25,1256721,Security Package,DISQUALIFIED
+LEAD-00741,First741,Last141,lead741@company41.com,+1-318-606-1668,Company-41,Director IT,Healthcare,UK,Partner,2025-01-03,57,-999,Analytics Module,NEW
+LEAD-00742,First742,Last142,lead742@company42.com,+1-557-195-4337,Company-42,CEO,Energy,Australia,Trade Show,2025-04-01,37,,Analytics Module,CONVERTED
+LEAD-00743,First743,Last143,lead743@company43.com,+1-204-638-3958,Company-43,,Healthcare,US,Web,2025-03-30,54,,Data Integration Suite,NEW
+LEAD-00744,First744,Last144,lead744@company44.com,+1-491-797-2998,Company-44,Manager,Technology,India,Email Campaign,2024-01-15,,0,Platform License,DISQUALIFIED
+LEAD-00745,First745,Last145,lead745@company45.com,+1-924-775-8861,Company-45,CFO,Technology,US,Trade Show,2025-05-01,59,2269206,Security Package,QUALIFIED
+LEAD-00746,First746,Last146,lead746@company46.com,+1-949-851-3118,Company-46,CFO,Logistics,United States,Cold Call,2024-02-06,28,0,Security Package,NEW
+LEAD-00747,First747,Last147,lead747@company47.com,+1-608-361-3916,Company-47,VP Sales,Logistics,Canada,Email Campaign,2024-07-17,31,3356360,Security Package,QUALIFIED
+LEAD-00748,First748,Last148,lead748@company48.com,+1-862-870-3525,Company-48,,Healthcare,Australia,Cold Call,2024-11-04,16,-999,Analytics Module,QUALIFIED
+LEAD-00749,First749,Last149,lead749@company49.com,+1-881-198-7020,Company-49,Director IT,Healthcare,,LinkedIn,2024-10-15,66,-999,Security Package,NEW
+LEAD-00750,First750,Last150,INVALID_EMAIL,,Company-50,Manager,Manufacturing,Japan,Cold Call,2024-08-06,97,0,Platform License,NEW
+LEAD-00751,First751,Last151,lead751@company1.com,+1-725-449-8594,Company-51,Director IT,Energy,US,Cold Call,2024-09-25,87,,Platform License,QUALIFIED
+LEAD-00752,First752,Last152,lead752@company2.com,+1-679-547-2297,Company-52,CTO,Manufacturing,US,LinkedIn,2025-03-06,HIGH,0,Analytics Module,CONVERTED
+LEAD-00753,First753,Last153,lead753@company3.com,+1-637-402-1781,Company-53,Manager,Technology,UNKNOWN,Referral,2024-07-30,71,652001,Platform License,DISQUALIFIED
+LEAD-00754,First754,Last154,lead754@company4.com,+1-876-837-5151,Company-54,,Energy,United States,Web,2025-01-14,46,2147922,Security Package,CONTACTED
+LEAD-00755,First755,Last155,lead755@company5.com,+1-386-963-7438,Company-55,CEO,Finance,India,Trade Show,2025-01-05,6,-999,Security Package,
+LEAD-00756,First756,Last156,lead756@company6.com,+1-660-738-5342,Company-56,CTO,Technology,usa,LinkedIn,2025-03-22,44,,Platform License,DISQUALIFIED
+LEAD-00757,First757,Last157,lead757@company7.com,+1-747-118-1095,Company-57,CTO,Retail,,Referral,2024-12-20,51,988768,Security Package,
+LEAD-00758,First758,Last158,lead758@company8.com,+1-962-716-8974,Company-58,,Finance,UK,Email Campaign,2024-03-10,39,-999,Platform License,CONTACTED
+LEAD-00759,First759,Last159,lead759@company9.com,+1-314-935-1260,Company-59,CTO,Healthcare,US,Email Campaign,2024-11-28,90,1588913,Analytics Module,DISQUALIFIED
+LEAD-00760,First760,Last160,lead760@company10.com,,Company-60,VP Sales,Finance,,Email Campaign,8/14/2024,,,Platform License,NEW
+LEAD-00761,First761,Last161,lead761@company11.com,+1-370-256-8295,Company-61,,Healthcare,usa,Email Campaign,2024-04-13,63,3965138,Data Integration Suite,CONVERTED
+LEAD-00762,First762,Last162,lead762@company12.com,+1-601-152-6469,Company-62,Director IT,Logistics,,Cold Call,2024-10-23,2,-999,Data Integration Suite,NEW
+LEAD-00763,First763,Last163,lead763@company13.com,+1-699-509-8964,Company-63,CTO,Retail,United States,Trade Show,2024-01-10,66,-999,Security Package,CONVERTED
+LEAD-00764,First764,Last164,lead764@company14.com,+1-523-666-2040,Company-64,VP Sales,Healthcare,usa,Cold Call,2024-06-26,35,-999,Security Package,
+LEAD-00765,First765,Last165,,+1-646-121-3643,Company-65,CFO,Healthcare,Canada,Trade Show,2024-04-22,37,-999,Data Integration Suite,CONVERTED
+LEAD-00766,First766,Last166,lead766@company16.com,+1-932-772-8675,Company-66,Director IT,Logistics,US,Cold Call,2025-01-11,17,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00767,First767,Last167,lead767@company17.com,+1-365-736-4394,Company-67,CTO,Manufacturing,Canada,Email Campaign,2024-11-06,37,-999,Security Package,NEW
+LEAD-00768,First768,Last168,lead768@company18.com,+1-625-605-5975,Company-68,Manager,Technology,United States,LinkedIn,2025-03-27,HIGH,,Data Integration Suite,QUALIFIED
+LEAD-00769,First769,Last169,lead769@company19.com,+1-893-262-3862,Company-69,CFO,Healthcare,UK,Trade Show,2024-04-26,65,278183,Platform License,CONVERTED
+LEAD-00770,First770,Last170,lead770@company20.com,,Company-70,CFO,Logistics,India,Partner,2024-01-24,29,0,Data Integration Suite,CONTACTED
+LEAD-00771,First771,Last171,lead771@company21.com,+1-906-994-9444,Company-71,Director IT,Logistics,,Partner,2025-01-21,78,883606,Platform License,NEW
+LEAD-00772,First772,Last172,lead772@company22.com,+1-825-724-2669,Company-72,CTO,Retail,UK,Partner,2024-04-15,72,362065,Data Integration Suite,CONTACTED
+LEAD-00773,First773,Last173,lead773@company23.com,+1-945-399-8233,Company-73,CEO,Logistics,UK,Email Campaign,2024-11-27,98,-999,Data Integration Suite,QUALIFIED
+LEAD-00774,First774,Last174,lead774@company24.com,+1-341-225-4307,Company-74,CTO,Logistics,,LinkedIn,2024-05-26,57,3497562,Analytics Module,NEW
+LEAD-00775,First775,Last175,lead775@company25.com,+1-472-481-7799,Company-75,,Logistics,UNKNOWN,Referral,2025-02-07,47,,Analytics Module,CONTACTED
+LEAD-00776,First776,Last176,lead776@company26.com,+1-639-523-7706,Company-76,VP Sales,Healthcare,Germany,Partner,2024-01-06,,0,Platform License,NEW
+LEAD-00777,First777,Last177,lead777@company27.com,+1-546-422-7580,Company-77,VP Sales,Healthcare,United States,Cold Call,2025-04-17,99,-999,Analytics Module,CONVERTED
+LEAD-00778,First778,Last178,lead778@company28.com,+1-259-746-9516,Company-78,CEO,Retail,UNKNOWN,Partner,2024-06-04,38,-999,Data Integration Suite,QUALIFIED
+LEAD-00779,First779,Last179,lead779@company29.com,+1-208-946-5583,Company-79,Director IT,Retail,Canada,Trade Show,2024-11-15,68,-999,Security Package,
+LEAD-00780,First780,Last180,INVALID_EMAIL,,Company-80,CFO,Technology,United States,Trade Show,6/13/2024,45,,Analytics Module,CONVERTED
+LEAD-00781,First781,Last181,lead781@company31.com,+1-753-390-4501,Company-81,Manager,Finance,US,Email Campaign,2024-01-12,12,0,Platform License,CONVERTED
+LEAD-00782,First782,Last182,lead782@company32.com,+1-806-364-4954,Company-82,Manager,Technology,United States,Partner,2024-07-09,100,-999,Data Integration Suite,
+LEAD-00783,First783,Last183,lead783@company33.com,+1-719-462-3028,Company-83,CFO,Energy,United States,Referral,2024-06-22,7,-999,Analytics Module,
+LEAD-00784,First784,Last184,lead784@company34.com,+1-795-679-9737,Company-84,CFO,Finance,US,Partner,2025-02-21,HIGH,0,Analytics Module,
+LEAD-00785,First785,Last185,lead785@company35.com,+1-586-632-5057,Company-85,,Logistics,India,Referral,2024-02-20,14,,Analytics Module,
+LEAD-00786,First786,Last186,lead786@company36.com,+1-635-948-7751,Company-86,Director IT,Manufacturing,,Email Campaign,2024-08-16,11,783837,Platform License,QUALIFIED
+LEAD-00787,First787,Last187,lead787@company37.com,+1-893-638-7598,Company-87,,Finance,usa,Referral,2024-11-21,76,-999,Security Package,DISQUALIFIED
+LEAD-00788,First788,Last188,lead788@company38.com,+1-905-601-7830,Company-88,Director IT,Retail,,Email Campaign,2025-05-10,21,,Platform License,
+LEAD-00789,First789,Last189,lead789@company39.com,+1-417-566-8755,Company-89,VP Sales,Energy,Japan,Web,2024-03-02,5,0,Data Integration Suite,CONVERTED
+LEAD-00790,First790,Last190,lead790@company40.com,,Company-90,VP Sales,Finance,Australia,LinkedIn,2024-06-04,38,,Data Integration Suite,DISQUALIFIED
+LEAD-00791,First791,Last191,lead791@company41.com,+1-228-910-3340,Company-91,VP Sales,Finance,Australia,Email Campaign,2024-04-03,19,-999,Security Package,NEW
+LEAD-00792,First792,Last192,lead792@company42.com,+1-325-660-6712,Company-92,Director IT,Healthcare,usa,LinkedIn,2024-10-16,,576772,Security Package,QUALIFIED
+LEAD-00793,First793,Last193,lead793@company43.com,+1-586-586-3175,Company-93,,Healthcare,US,Referral,2024-03-17,98,-999,Data Integration Suite,NEW
+LEAD-00794,First794,Last194,lead794@company44.com,+1-839-780-7711,Company-94,CFO,Energy,United States,Cold Call,2025-03-31,50,-999,Security Package,
+LEAD-00795,First795,Last195,,+1-484-761-2450,Company-95,Manager,Retail,UK,Cold Call,2024-10-13,22,0,Platform License,CONTACTED
+LEAD-00796,First796,Last196,lead796@company46.com,+1-833-654-1866,Company-96,,Healthcare,UNKNOWN,Web,2024-03-02,73,,Analytics Module,NEW
+LEAD-00797,First797,Last197,lead797@company47.com,+1-481-905-4371,Company-97,VP Sales,Logistics,UNKNOWN,Trade Show,2024-06-13,32,-999,Security Package,CONVERTED
+LEAD-00798,First798,Last198,lead798@company48.com,+1-246-603-1381,Company-98,Director IT,Technology,UNKNOWN,LinkedIn,2024-07-14,44,,Data Integration Suite,NEW
+LEAD-00799,First799,Last199,lead799@company49.com,+1-317-201-9876,Company-99,CTO,Finance,UK,Email Campaign,2024-06-06,22,,Security Package,
+LEAD-00800,First800,Last0,lead800@company0.com,,Company-0,Manager,Finance,Germany,Web,12/2/2024,HIGH,1429277,Data Integration Suite,DISQUALIFIED
+LEAD-00801,First801,Last1,lead801@company1.com,+1-301-427-3334,Company-1,Director IT,Logistics,UK,Web,2024-04-13,53,0,Analytics Module,CONVERTED
+LEAD-00802,First802,Last2,lead802@company2.com,+1-800-342-9076,Company-2,VP Sales,Finance,United States,LinkedIn,2024-08-25,66,-999,Security Package,NEW
+LEAD-00803,First803,Last3,lead803@company3.com,+1-695-129-7676,Company-3,CFO,Energy,usa,Cold Call,2024-02-21,82,1970757,Analytics Module,CONVERTED
+LEAD-00804,First804,Last4,lead804@company4.com,+1-867-904-3057,Company-4,Director IT,Technology,US,Trade Show,2024-04-14,39,-999,Analytics Module,QUALIFIED
+LEAD-00805,First805,Last5,lead805@company5.com,+1-753-272-5016,Company-5,VP Sales,Technology,,Partner,2024-11-13,69,-999,Data Integration Suite,
+LEAD-00806,First806,Last6,lead806@company6.com,+1-371-100-1985,Company-6,,Retail,Japan,LinkedIn,2025-03-07,62,0,Analytics Module,CONVERTED
+LEAD-00807,First807,Last7,lead807@company7.com,+1-722-388-1745,Company-7,CFO,Technology,Japan,Cold Call,2024-03-03,21,4490265,Analytics Module,
+LEAD-00808,First808,Last8,lead808@company8.com,+1-769-386-8077,Company-8,CEO,Finance,US,LinkedIn,2025-01-20,,0,Security Package,QUALIFIED
+LEAD-00809,First809,Last9,lead809@company9.com,+1-451-778-6269,Company-9,Manager,Finance,United States,Cold Call,2024-03-09,44,-999,Platform License,CONVERTED
+LEAD-00810,First810,Last10,INVALID_EMAIL,,Company-10,CEO,Manufacturing,Japan,Trade Show,2025-04-03,61,45896,Security Package,DISQUALIFIED
+LEAD-00811,First811,Last11,lead811@company11.com,+1-751-183-2270,Company-11,CEO,Technology,India,Partner,2024-07-11,69,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00812,First812,Last12,lead812@company12.com,+1-381-959-1138,Company-12,CTO,Healthcare,United States,Email Campaign,2025-01-15,16,0,Platform License,QUALIFIED
+LEAD-00813,First813,Last13,lead813@company13.com,+1-896-826-6862,Company-13,,Retail,Canada,Email Campaign,2024-09-09,25,0,Data Integration Suite,NEW
+LEAD-00814,First814,Last14,lead814@company14.com,+1-487-604-4425,Company-14,VP Sales,Logistics,Australia,Trade Show,2024-09-13,1,-999,Security Package,CONTACTED
+LEAD-00815,First815,Last15,lead815@company15.com,+1-765-298-3875,Company-15,CEO,Technology,Germany,LinkedIn,2025-04-22,9,,Analytics Module,CONVERTED
+LEAD-00816,First816,Last16,lead816@company16.com,+1-946-901-5494,Company-16,CEO,Retail,UNKNOWN,Trade Show,2024-05-09,HIGH,1619367,Security Package,NEW
+LEAD-00817,First817,Last17,lead817@company17.com,+1-637-756-1849,Company-17,CFO,Technology,US,Trade Show,2024-08-26,42,-999,Security Package,QUALIFIED
+LEAD-00818,First818,Last18,lead818@company18.com,+1-729-877-1712,Company-18,CFO,Healthcare,UNKNOWN,Referral,2024-06-10,93,1893646,Platform License,DISQUALIFIED
+LEAD-00819,First819,Last19,lead819@company19.com,+1-399-442-2340,Company-19,CEO,Healthcare,UK,Email Campaign,2024-04-10,74,,Analytics Module,QUALIFIED
+LEAD-00820,First820,Last20,lead820@company20.com,,Company-20,VP Sales,Healthcare,Japan,Partner,1/19/2024,40,537174,Data Integration Suite,QUALIFIED
+LEAD-00821,First821,Last21,lead821@company21.com,+1-453-210-8759,Company-21,,Finance,UNKNOWN,Partner,2024-05-01,31,2868854,Platform License,CONVERTED
+LEAD-00822,First822,Last22,lead822@company22.com,+1-834-549-2567,Company-22,VP Sales,Technology,United States,Referral,2024-06-09,81,3755145,Platform License,CONTACTED
+LEAD-00823,First823,Last23,lead823@company23.com,+1-263-921-8240,Company-23,VP Sales,Technology,US,Web,2024-10-13,8,-999,Platform License,QUALIFIED
+LEAD-00824,First824,Last24,lead824@company24.com,+1-590-511-2570,Company-24,,Energy,US,Trade Show,2024-01-06,,,Security Package,DISQUALIFIED
+LEAD-00825,First825,Last25,,+1-675-914-8014,Company-25,CEO,Retail,United States,Referral,2024-09-21,80,0,Data Integration Suite,CONVERTED
+LEAD-00826,First826,Last26,lead826@company26.com,+1-397-210-2682,Company-26,Manager,Manufacturing,US,Trade Show,2024-05-11,2,,Data Integration Suite,DISQUALIFIED
+LEAD-00827,First827,Last27,lead827@company27.com,+1-692-842-8284,Company-27,,Technology,United States,Email Campaign,2024-06-08,24,,Security Package,CONVERTED
+LEAD-00828,First828,Last28,lead828@company28.com,+1-867-872-6861,Company-28,CTO,Healthcare,Australia,Trade Show,2024-06-24,40,,Data Integration Suite,QUALIFIED
+LEAD-00829,First829,Last29,lead829@company29.com,+1-208-630-3369,Company-29,Director IT,Finance,Canada,Email Campaign,2024-11-23,8,2001349,Analytics Module,NEW
+LEAD-00830,First830,Last30,lead830@company30.com,,Company-30,CEO,Retail,,Trade Show,2024-12-20,44,-999,Data Integration Suite,CONVERTED
+LEAD-00831,First831,Last31,lead831@company31.com,+1-779-443-5909,Company-31,VP Sales,Healthcare,United States,Referral,2024-04-22,54,,Platform License,
+LEAD-00832,First832,Last32,lead832@company32.com,+1-428-809-4772,Company-32,CTO,Healthcare,India,Partner,2025-01-13,HIGH,,Security Package,CONTACTED
+LEAD-00833,First833,Last33,lead833@company33.com,+1-609-288-1110,Company-33,CFO,Technology,UNKNOWN,Web,2024-03-13,47,92980,Data Integration Suite,DISQUALIFIED
+LEAD-00834,First834,Last34,lead834@company34.com,+1-399-746-6896,Company-34,CTO,Finance,Germany,Email Campaign,2025-03-29,6,,Data Integration Suite,
+LEAD-00835,First835,Last35,lead835@company35.com,+1-378-447-5029,Company-35,CTO,Logistics,Australia,Web,2024-01-11,23,1654062,Analytics Module,DISQUALIFIED
+LEAD-00836,First836,Last36,lead836@company36.com,+1-870-906-2818,Company-36,Director IT,Manufacturing,India,Partner,2024-07-09,44,0,Analytics Module,CONVERTED
+LEAD-00837,First837,Last37,lead837@company37.com,+1-838-544-2071,Company-37,,Manufacturing,Canada,Trade Show,2024-07-12,16,,Data Integration Suite,QUALIFIED
+LEAD-00838,First838,Last38,lead838@company38.com,+1-813-539-5006,Company-38,,Energy,Australia,Partner,2024-03-17,6,,Data Integration Suite,CONTACTED
+LEAD-00839,First839,Last39,lead839@company39.com,+1-254-744-5588,Company-39,CTO,Retail,UK,Partner,2024-08-28,17,-999,Platform License,CONTACTED
+LEAD-00840,First840,Last40,INVALID_EMAIL,,Company-40,,Retail,UNKNOWN,LinkedIn,8/17/2024,,-999,Security Package,CONTACTED
+LEAD-00841,First841,Last41,lead841@company41.com,+1-529-829-7125,Company-41,Director IT,Finance,usa,Referral,2024-11-22,68,-999,Platform License,CONTACTED
+LEAD-00842,First842,Last42,lead842@company42.com,+1-424-307-8406,Company-42,CFO,Healthcare,Japan,Trade Show,2024-03-21,31,,Data Integration Suite,QUALIFIED
+LEAD-00843,First843,Last43,lead843@company43.com,+1-763-186-3200,Company-43,Director IT,Energy,India,Email Campaign,2024-10-25,97,0,Platform License,DISQUALIFIED
+LEAD-00844,First844,Last44,lead844@company44.com,+1-724-736-6511,Company-44,Director IT,Healthcare,India,Partner,2024-09-11,55,-999,Data Integration Suite,QUALIFIED
+LEAD-00845,First845,Last45,lead845@company45.com,+1-591-125-3942,Company-45,CEO,Technology,India,Web,2024-05-30,57,0,Platform License,QUALIFIED
+LEAD-00846,First846,Last46,lead846@company46.com,+1-433-200-2942,Company-46,Manager,Manufacturing,India,Email Campaign,2024-12-11,10,3031886,Data Integration Suite,QUALIFIED
+LEAD-00847,First847,Last47,lead847@company47.com,+1-509-863-5496,Company-47,VP Sales,Logistics,Australia,LinkedIn,2025-02-25,25,0,Data Integration Suite,DISQUALIFIED
+LEAD-00848,First848,Last48,lead848@company48.com,+1-615-941-1194,Company-48,,Healthcare,Canada,Email Campaign,2025-01-05,HIGH,,Analytics Module,DISQUALIFIED
+LEAD-00849,First849,Last49,lead849@company49.com,+1-439-628-8679,Company-49,,Technology,India,Partner,2024-04-06,93,0,Security Package,
+LEAD-00850,First850,Last50,lead850@company0.com,,Company-50,Director IT,Logistics,UNKNOWN,Web,2024-07-10,54,-999,Analytics Module,CONVERTED
+LEAD-00851,First851,Last51,lead851@company1.com,+1-331-412-1158,Company-51,CTO,Healthcare,Japan,Cold Call,2025-01-20,64,0,Security Package,
+LEAD-00852,First852,Last52,lead852@company2.com,+1-750-406-6342,Company-52,CTO,Manufacturing,India,Trade Show,2024-11-18,76,204949,Security Package,DISQUALIFIED
+LEAD-00853,First853,Last53,lead853@company3.com,+1-409-500-2043,Company-53,Director IT,Technology,India,Trade Show,2025-05-07,69,,Security Package,
+LEAD-00854,First854,Last54,lead854@company4.com,+1-511-195-3808,Company-54,VP Sales,Logistics,usa,Referral,2024-01-14,14,,Analytics Module,CONTACTED
+LEAD-00855,First855,Last55,,+1-271-495-5650,Company-55,CEO,Energy,UK,Referral,2024-01-30,27,0,Data Integration Suite,CONVERTED
+LEAD-00856,First856,Last56,lead856@company6.com,+1-211-275-6353,Company-56,CTO,Technology,Germany,Trade Show,2024-08-02,,-999,Security Package,
+LEAD-00857,First857,Last57,lead857@company7.com,+1-270-498-4382,Company-57,Director IT,Logistics,US,Referral,2024-03-22,17,0,Data Integration Suite,CONVERTED
+LEAD-00858,First858,Last58,lead858@company8.com,+1-407-614-8519,Company-58,CTO,Healthcare,UK,Partner,2024-07-23,36,1702005,Analytics Module,CONVERTED
+LEAD-00859,First859,Last59,lead859@company9.com,+1-536-682-9043,Company-59,CEO,Technology,Australia,Cold Call,2025-03-27,59,3891370,Security Package,QUALIFIED
+LEAD-00860,First860,Last60,lead860@company10.com,,Company-60,Manager,Logistics,Germany,Referral,4/6/2024,90,-999,Security Package,DISQUALIFIED
+LEAD-00861,First861,Last61,lead861@company11.com,+1-593-774-4005,Company-61,Director IT,Retail,United States,Email Campaign,2025-03-29,90,4779890,Analytics Module,QUALIFIED
+LEAD-00862,First862,Last62,lead862@company12.com,+1-843-650-5782,Company-62,Director IT,Healthcare,UNKNOWN,Web,2024-07-07,86,,Platform License,NEW
+LEAD-00863,First863,Last63,lead863@company13.com,+1-716-884-6341,Company-63,CFO,Manufacturing,UNKNOWN,Web,2024-08-24,53,,Platform License,NEW
+LEAD-00864,First864,Last64,lead864@company14.com,+1-854-811-8567,Company-64,CEO,Healthcare,Canada,Referral,2024-01-20,HIGH,0,Platform License,QUALIFIED
+LEAD-00865,First865,Last65,lead865@company15.com,+1-317-826-3236,Company-65,Director IT,Technology,UK,Trade Show,2024-12-02,42,-999,Analytics Module,
+LEAD-00866,First866,Last66,lead866@company16.com,+1-648-243-8713,Company-66,,Technology,usa,Web,2024-03-31,36,,Data Integration Suite,NEW
+LEAD-00867,First867,Last67,lead867@company17.com,+1-747-859-7403,Company-67,CEO,Finance,Germany,Referral,2024-07-02,22,660832,Analytics Module,CONTACTED
+LEAD-00868,First868,Last68,lead868@company18.com,+1-931-135-9721,Company-68,,Retail,UNKNOWN,Cold Call,2024-12-05,28,3718252,Platform License,DISQUALIFIED
+LEAD-00869,First869,Last69,lead869@company19.com,+1-906-415-8274,Company-69,,Healthcare,Canada,Email Campaign,2024-07-10,7,49139,Analytics Module,CONTACTED
+LEAD-00870,First870,Last70,INVALID_EMAIL,,Company-70,VP Sales,Technology,India,Partner,2024-04-08,12,-999,Platform License,CONTACTED
+LEAD-00871,First871,Last71,lead871@company21.com,+1-298-916-3750,Company-71,Director IT,Energy,UK,Partner,2024-06-16,93,1411293,Data Integration Suite,CONVERTED
+LEAD-00872,First872,Last72,lead872@company22.com,+1-841-294-4393,Company-72,Director IT,Technology,Canada,Email Campaign,2024-02-24,,-999,Data Integration Suite,QUALIFIED
+LEAD-00873,First873,Last73,lead873@company23.com,+1-377-115-7588,Company-73,Director IT,Manufacturing,,Email Campaign,2024-02-03,84,2662815,Data Integration Suite,
+LEAD-00874,First874,Last74,lead874@company24.com,+1-838-477-1719,Company-74,CFO,Logistics,usa,Referral,2024-02-22,9,-999,Analytics Module,QUALIFIED
+LEAD-00875,First875,Last75,lead875@company25.com,+1-297-714-6314,Company-75,CFO,Manufacturing,US,Partner,2025-03-28,81,,Data Integration Suite,
+LEAD-00876,First876,Last76,lead876@company26.com,+1-693-169-6490,Company-76,Director IT,Energy,US,Cold Call,2024-04-29,3,-999,Platform License,CONTACTED
+LEAD-00877,First877,Last77,lead877@company27.com,+1-221-731-3032,Company-77,,Manufacturing,usa,Web,2024-01-31,40,-999,Analytics Module,QUALIFIED
+LEAD-00878,First878,Last78,lead878@company28.com,+1-710-403-4309,Company-78,CEO,Technology,Canada,Cold Call,2024-11-02,20,,Security Package,
+LEAD-00879,First879,Last79,lead879@company29.com,+1-536-237-5556,Company-79,CEO,Logistics,Australia,Partner,2024-01-13,41,-999,Analytics Module,
+LEAD-00880,First880,Last80,lead880@company30.com,,Company-80,CTO,Manufacturing,UNKNOWN,Web,11/8/2024,HIGH,0,Analytics Module,CONVERTED
+LEAD-00881,First881,Last81,lead881@company31.com,+1-590-633-6269,Company-81,VP Sales,Logistics,,Web,2025-05-03,24,3720792,Analytics Module,NEW
+LEAD-00882,First882,Last82,lead882@company32.com,+1-849-244-4345,Company-82,Manager,Energy,Canada,Email Campaign,2024-09-16,17,,Platform License,DISQUALIFIED
+LEAD-00883,First883,Last83,lead883@company33.com,+1-942-578-6103,Company-83,Director IT,Manufacturing,usa,Email Campaign,2024-06-04,22,,Data Integration Suite,CONVERTED
+LEAD-00884,First884,Last84,lead884@company34.com,+1-659-750-4299,Company-84,CFO,Healthcare,Japan,Email Campaign,2024-08-29,35,4046352,Security Package,DISQUALIFIED
+LEAD-00885,First885,Last85,,+1-717-724-8101,Company-85,VP Sales,Logistics,Japan,Referral,2025-03-13,98,-999,Platform License,QUALIFIED
+LEAD-00886,First886,Last86,lead886@company36.com,+1-809-650-3503,Company-86,Director IT,Healthcare,Australia,Referral,2024-05-25,71,0,Security Package,CONVERTED
+LEAD-00887,First887,Last87,lead887@company37.com,+1-820-592-2178,Company-87,CTO,Manufacturing,Canada,Web,2024-01-07,43,-999,Data Integration Suite,DISQUALIFIED
+LEAD-00888,First888,Last88,lead888@company38.com,+1-614-525-7465,Company-88,Director IT,Finance,US,Trade Show,2024-02-06,,-999,Security Package,NEW
+LEAD-00889,First889,Last89,lead889@company39.com,+1-327-494-3660,Company-89,,Logistics,India,Trade Show,2024-12-29,25,0,Security Package,
+LEAD-00890,First890,Last90,lead890@company40.com,,Company-90,CEO,Healthcare,Japan,Cold Call,2024-05-06,89,3098522,Analytics Module,DISQUALIFIED
+LEAD-00891,First891,Last91,lead891@company41.com,+1-235-932-6921,Company-91,CFO,Energy,,Cold Call,2024-03-16,81,,Data Integration Suite,CONTACTED
+LEAD-00892,First892,Last92,lead892@company42.com,+1-816-692-3644,Company-92,CEO,Retail,Japan,Referral,2024-12-27,2,989207,Platform License,CONVERTED
+LEAD-00893,First893,Last93,lead893@company43.com,+1-393-997-7929,Company-93,CEO,Finance,UNKNOWN,Trade Show,2024-12-03,22,0,Security Package,CONVERTED
+LEAD-00894,First894,Last94,lead894@company44.com,+1-515-851-7743,Company-94,CEO,Energy,India,Partner,2024-03-14,97,755524,Data Integration Suite,
+LEAD-00895,First895,Last95,lead895@company45.com,+1-414-866-7520,Company-95,CTO,Logistics,,Web,2024-02-19,90,2594533,Platform License,
+LEAD-00896,First896,Last96,lead896@company46.com,+1-627-637-7829,Company-96,CTO,Manufacturing,India,Email Campaign,2024-12-26,HIGH,-999,Analytics Module,CONTACTED
+LEAD-00897,First897,Last97,lead897@company47.com,+1-698-286-9234,Company-97,CTO,Manufacturing,United States,Cold Call,2024-04-03,15,,Analytics Module,QUALIFIED
+LEAD-00898,First898,Last98,lead898@company48.com,+1-618-551-2789,Company-98,CFO,Technology,Japan,Web,2024-05-21,82,1403567,Platform License,QUALIFIED
+LEAD-00899,First899,Last99,lead899@company49.com,+1-230-699-4846,Company-99,VP Sales,Technology,Australia,Partner,2025-05-04,62,4080105,Platform License,
+LEAD-00900,First900,Last100,INVALID_EMAIL,,Company-0,CTO,Energy,United States,Referral,10/17/2024,75,361141,Data Integration Suite,DISQUALIFIED
+LEAD-00901,First901,Last101,lead901@company1.com,+1-684-875-6521,Company-1,CFO,Retail,India,LinkedIn,2025-02-22,78,0,Analytics Module,QUALIFIED
+LEAD-00902,First902,Last102,lead902@company2.com,+1-881-508-7200,Company-2,,Finance,UK,Web,2024-08-21,79,0,Security Package,
+LEAD-00903,First903,Last103,lead903@company3.com,+1-342-126-3013,Company-3,CFO,Healthcare,usa,Cold Call,2024-12-03,68,,Security Package,CONVERTED
+LEAD-00904,First904,Last104,lead904@company4.com,+1-623-776-4079,Company-4,VP Sales,Retail,India,Partner,2024-01-24,,0,Data Integration Suite,
+LEAD-00905,First905,Last105,lead905@company5.com,+1-654-339-8938,Company-5,Director IT,Healthcare,US,Partner,2024-12-24,52,0,Platform License,
+LEAD-00906,First906,Last106,lead906@company6.com,+1-594-400-4196,Company-6,CTO,Healthcare,UK,LinkedIn,2025-03-02,92,1210925,Security Package,CONTACTED
+LEAD-00907,First907,Last107,lead907@company7.com,+1-656-218-8899,Company-7,CTO,Manufacturing,Germany,Partner,2025-04-28,85,,Platform License,NEW
+LEAD-00908,First908,Last108,lead908@company8.com,+1-645-832-1478,Company-8,,Finance,Canada,Cold Call,2024-05-11,21,-999,Security Package,
+LEAD-00909,First909,Last109,lead909@company9.com,+1-326-781-3224,Company-9,,Retail,India,Partner,2024-04-24,69,4136849,Platform License,
+LEAD-00910,First910,Last110,lead910@company10.com,,Company-10,CEO,Retail,UNKNOWN,Partner,2024-08-11,44,-999,Analytics Module,CONTACTED
+LEAD-00911,First911,Last111,lead911@company11.com,+1-465-218-5767,Company-11,CFO,Retail,usa,Email Campaign,2025-01-16,12,944344,Platform License,CONVERTED
+LEAD-00912,First912,Last112,lead912@company12.com,+1-576-230-6134,Company-12,CFO,Technology,usa,Trade Show,2024-04-07,HIGH,3199307,Security Package,DISQUALIFIED
+LEAD-00913,First913,Last113,lead913@company13.com,+1-527-889-6980,Company-13,VP Sales,Healthcare,United States,Trade Show,2025-03-12,87,,Security Package,QUALIFIED
+LEAD-00914,First914,Last114,lead914@company14.com,+1-348-935-5863,Company-14,CTO,Energy,Australia,Email Campaign,2025-01-17,29,-999,Platform License,CONVERTED
+LEAD-00915,First915,Last115,,+1-527-416-9230,Company-15,,Retail,usa,Referral,2024-11-19,89,0,Analytics Module,DISQUALIFIED
+LEAD-00916,First916,Last116,lead916@company16.com,+1-498-821-7171,Company-16,,Retail,Canada,Partner,2025-01-10,8,,Analytics Module,
+LEAD-00917,First917,Last117,lead917@company17.com,+1-953-153-3933,Company-17,,Retail,Germany,Web,2024-10-07,63,0,Security Package,QUALIFIED
+LEAD-00918,First918,Last118,lead918@company18.com,+1-632-794-8756,Company-18,VP Sales,Energy,Australia,LinkedIn,2024-12-22,45,-999,Analytics Module,
+LEAD-00919,First919,Last119,lead919@company19.com,+1-761-503-2594,Company-19,,Retail,Australia,Referral,2024-12-01,17,2723031,Analytics Module,CONVERTED
+LEAD-00920,First920,Last120,lead920@company20.com,,Company-20,CEO,Healthcare,Australia,Email Campaign,4/7/2024,,-999,Analytics Module,
+LEAD-00921,First921,Last121,lead921@company21.com,+1-866-109-6934,Company-21,CEO,Logistics,Germany,Referral,2025-05-01,93,4839171,Security Package,
+LEAD-00922,First922,Last122,lead922@company22.com,+1-372-157-2573,Company-22,VP Sales,Technology,UNKNOWN,Cold Call,2024-06-22,46,,Security Package,CONTACTED
+LEAD-00923,First923,Last123,lead923@company23.com,+1-842-839-7619,Company-23,CTO,Healthcare,,LinkedIn,2024-12-18,32,295152,Analytics Module,
+LEAD-00924,First924,Last124,lead924@company24.com,+1-963-484-2468,Company-24,CFO,Retail,US,Referral,2024-07-07,100,-999,Platform License,NEW
+LEAD-00925,First925,Last125,lead925@company25.com,+1-319-184-2999,Company-25,VP Sales,Energy,usa,Trade Show,2024-09-02,63,,Data Integration Suite,
+LEAD-00926,First926,Last126,lead926@company26.com,+1-963-196-3967,Company-26,CFO,Energy,Germany,Web,2024-06-15,50,-999,Platform License,
+LEAD-00927,First927,Last127,lead927@company27.com,+1-750-289-7640,Company-27,Manager,Logistics,UNKNOWN,Partner,2025-02-19,90,-999,Security Package,NEW
+LEAD-00928,First928,Last128,lead928@company28.com,+1-731-957-9830,Company-28,CEO,Technology,Germany,Partner,2024-11-02,HIGH,,Analytics Module,NEW
+LEAD-00929,First929,Last129,lead929@company29.com,+1-768-557-6149,Company-29,Manager,Manufacturing,US,Email Campaign,2024-02-14,16,,Data Integration Suite,NEW
+LEAD-00930,First930,Last130,INVALID_EMAIL,,Company-30,CFO,Energy,Germany,Referral,2025-05-15,11,0,Platform License,CONTACTED
+LEAD-00931,First931,Last131,lead931@company31.com,+1-507-147-9510,Company-31,CTO,Energy,,Cold Call,2024-06-09,38,-999,Data Integration Suite,CONVERTED
+LEAD-00932,First932,Last132,lead932@company32.com,+1-751-622-4438,Company-32,CTO,Technology,Canada,Email Campaign,2024-06-02,89,840548,Analytics Module,CONTACTED
+LEAD-00933,First933,Last133,lead933@company33.com,+1-816-665-4539,Company-33,CTO,Retail,usa,Referral,2024-02-08,76,0,Data Integration Suite,QUALIFIED
+LEAD-00934,First934,Last134,lead934@company34.com,+1-590-765-3675,Company-34,CFO,Retail,Japan,Cold Call,2024-03-14,52,3835773,Analytics Module,NEW
+LEAD-00935,First935,Last135,lead935@company35.com,+1-844-850-5413,Company-35,Manager,Retail,US,Partner,2024-09-18,82,0,Analytics Module,DISQUALIFIED
+LEAD-00936,First936,Last136,lead936@company36.com,+1-357-423-8104,Company-36,Manager,Manufacturing,UK,LinkedIn,2024-03-04,,3188795,Platform License,
+LEAD-00937,First937,Last137,lead937@company37.com,+1-761-516-2080,Company-37,CFO,Logistics,Australia,Email Campaign,2025-03-20,43,0,Analytics Module,QUALIFIED
+LEAD-00938,First938,Last138,lead938@company38.com,+1-210-200-7179,Company-38,,Technology,Germany,Trade Show,2025-01-07,29,3186198,Data Integration Suite,CONVERTED
+LEAD-00939,First939,Last139,lead939@company39.com,+1-701-197-9666,Company-39,Manager,Finance,usa,Web,2025-04-04,45,0,Platform License,CONTACTED
+LEAD-00940,First940,Last140,lead940@company40.com,,Company-40,CFO,Logistics,US,Partner,9/18/2024,41,,Security Package,DISQUALIFIED
+LEAD-00941,First941,Last141,lead941@company41.com,+1-806-230-5244,Company-41,CEO,Manufacturing,Germany,Referral,2024-10-17,2,,Data Integration Suite,NEW
+LEAD-00942,First942,Last142,lead942@company42.com,+1-942-754-7064,Company-42,CEO,Healthcare,Germany,Referral,2024-06-30,91,-999,Security Package,CONVERTED
+LEAD-00943,First943,Last143,lead943@company43.com,+1-493-382-8008,Company-43,CEO,Logistics,UK,LinkedIn,2024-07-27,67,0,Data Integration Suite,NEW
+LEAD-00944,First944,Last144,lead944@company44.com,+1-849-181-2256,Company-44,CTO,Energy,United States,Web,2025-01-15,HIGH,2023574,Data Integration Suite,CONVERTED
+LEAD-00945,First945,Last145,,+1-704-927-1175,Company-45,Director IT,Healthcare,UNKNOWN,Cold Call,2024-12-12,55,,Platform License,DISQUALIFIED
+LEAD-00946,First946,Last146,lead946@company46.com,+1-214-731-4115,Company-46,CEO,Energy,India,Email Campaign,2025-01-13,96,-999,Platform License,CONVERTED
+LEAD-00947,First947,Last147,lead947@company47.com,+1-659-272-9577,Company-47,CFO,Logistics,Germany,Trade Show,2024-06-29,29,1476447,Platform License,DISQUALIFIED
+LEAD-00948,First948,Last148,lead948@company48.com,+1-707-488-3793,Company-48,CEO,Manufacturing,UNKNOWN,Partner,2025-01-27,48,0,Platform License,QUALIFIED
+LEAD-00949,First949,Last149,lead949@company49.com,+1-506-594-5809,Company-49,CEO,Retail,usa,Referral,2024-04-21,34,1797326,Data Integration Suite,
+LEAD-00950,First950,Last150,lead950@company0.com,,Company-50,Manager,Logistics,,Web,2024-07-01,66,-999,Platform License,CONVERTED
+LEAD-00951,First951,Last151,lead951@company1.com,+1-671-436-5888,Company-51,CFO,Retail,Germany,Referral,2024-06-30,46,908957,Platform License,NEW
+LEAD-00952,First952,Last152,lead952@company2.com,+1-641-603-4236,Company-52,Director IT,Technology,,Web,2024-03-20,,,Data Integration Suite,CONTACTED
+LEAD-00953,First953,Last153,lead953@company3.com,+1-681-504-7132,Company-53,CTO,Energy,Australia,Web,2024-08-12,39,-999,Security Package,CONTACTED
+LEAD-00954,First954,Last154,lead954@company4.com,+1-343-462-8110,Company-54,VP Sales,Manufacturing,Australia,Web,2024-03-09,1,,Security Package,DISQUALIFIED
+LEAD-00955,First955,Last155,lead955@company5.com,+1-961-439-1517,Company-55,CEO,Finance,UK,Referral,2024-09-07,21,-999,Security Package,
+LEAD-00956,First956,Last156,lead956@company6.com,+1-931-230-6322,Company-56,CTO,Technology,UK,Partner,2024-01-11,97,-999,Analytics Module,CONTACTED
+LEAD-00957,First957,Last157,lead957@company7.com,+1-552-612-1223,Company-57,CEO,Logistics,India,Referral,2025-05-14,99,1993947,Platform License,DISQUALIFIED
+LEAD-00958,First958,Last158,lead958@company8.com,+1-691-396-5623,Company-58,CTO,Energy,Germany,Cold Call,2024-09-18,63,-999,Analytics Module,CONTACTED
+LEAD-00959,First959,Last159,lead959@company9.com,+1-487-885-2884,Company-59,CTO,Healthcare,UK,Cold Call,2025-01-08,34,-999,Analytics Module,CONTACTED
+LEAD-00960,First960,Last160,INVALID_EMAIL,,Company-60,CTO,Technology,Germany,Referral,1/9/2024,HIGH,,Analytics Module,CONTACTED
+LEAD-00961,First961,Last161,lead961@company11.com,+1-636-118-4270,Company-61,Director IT,Energy,Australia,Cold Call,2024-11-20,12,-999,Analytics Module,CONTACTED
+LEAD-00962,First962,Last162,lead962@company12.com,+1-544-536-8851,Company-62,CEO,Technology,Australia,Web,2024-05-17,8,-999,Data Integration Suite,QUALIFIED
+LEAD-00963,First963,Last163,lead963@company13.com,+1-559-828-7849,Company-63,CTO,Technology,United States,Web,2024-12-04,32,2693019,Data Integration Suite,CONTACTED
+LEAD-00964,First964,Last164,lead964@company14.com,+1-492-583-5590,Company-64,CTO,Finance,,LinkedIn,2024-06-20,78,-999,Data Integration Suite,NEW
+LEAD-00965,First965,Last165,lead965@company15.com,+1-299-785-1223,Company-65,CFO,Finance,India,Cold Call,2025-02-02,88,,Data Integration Suite,CONTACTED
+LEAD-00966,First966,Last166,lead966@company16.com,+1-865-382-4441,Company-66,VP Sales,Manufacturing,US,Cold Call,2024-11-04,75,3231639,Platform License,NEW
+LEAD-00967,First967,Last167,lead967@company17.com,+1-800-770-4120,Company-67,VP Sales,Energy,usa,LinkedIn,2024-06-03,25,3749388,Security Package,CONTACTED
+LEAD-00968,First968,Last168,lead968@company18.com,+1-746-838-3517,Company-68,CTO,Healthcare,UNKNOWN,Cold Call,2024-05-09,,,Data Integration Suite,QUALIFIED
+LEAD-00969,First969,Last169,lead969@company19.com,+1-659-744-2923,Company-69,Director IT,Energy,UNKNOWN,Partner,2024-01-12,56,-999,Analytics Module,CONVERTED
+LEAD-00970,First970,Last170,lead970@company20.com,,Company-70,VP Sales,Energy,United States,Partner,2025-05-12,36,0,Analytics Module,
+LEAD-00971,First971,Last171,lead971@company21.com,+1-607-606-9723,Company-71,Director IT,Logistics,UNKNOWN,Referral,2024-10-14,66,,Security Package,DISQUALIFIED
+LEAD-00972,First972,Last172,lead972@company22.com,+1-821-378-4390,Company-72,Manager,Manufacturing,usa,Cold Call,2024-01-05,24,,Security Package,CONVERTED
+LEAD-00973,First973,Last173,lead973@company23.com,+1-924-837-9602,Company-73,CFO,Retail,Australia,Trade Show,2024-03-01,34,,Analytics Module,CONTACTED
+LEAD-00974,First974,Last174,lead974@company24.com,+1-246-646-4902,Company-74,CFO,Manufacturing,Australia,Partner,2025-02-08,38,,Platform License,
+LEAD-00975,First975,Last175,,+1-454-943-4440,Company-75,CEO,Finance,US,Trade Show,2025-05-12,69,984629,Data Integration Suite,QUALIFIED
+LEAD-00976,First976,Last176,lead976@company26.com,+1-285-822-9999,Company-76,Director IT,Energy,Australia,LinkedIn,2024-01-30,HIGH,,Platform License,QUALIFIED
+LEAD-00977,First977,Last177,lead977@company27.com,+1-424-848-5582,Company-77,Manager,Retail,usa,Web,2025-01-04,23,2157376,Security Package,
+LEAD-00978,First978,Last178,lead978@company28.com,+1-463-990-4377,Company-78,CFO,Manufacturing,usa,Cold Call,2025-02-17,57,0,Security Package,CONTACTED
+LEAD-00979,First979,Last179,lead979@company29.com,+1-656-337-8109,Company-79,VP Sales,Healthcare,Germany,Referral,2024-04-04,48,-999,Analytics Module,CONTACTED
+LEAD-00980,First980,Last180,lead980@company30.com,,Company-80,CEO,Finance,United States,LinkedIn,3/6/2024,73,,Security Package,
+LEAD-00981,First981,Last181,lead981@company31.com,+1-822-292-2137,Company-81,CTO,Healthcare,US,Referral,2024-02-21,19,-999,Analytics Module,
+LEAD-00982,First982,Last182,lead982@company32.com,+1-968-927-1193,Company-82,Director IT,Technology,UK,Partner,2024-01-07,78,-999,Platform License,CONTACTED
+LEAD-00983,First983,Last183,lead983@company33.com,+1-454-888-2369,Company-83,,Technology,UK,Trade Show,2025-01-11,35,1206514,Data Integration Suite,
+LEAD-00984,First984,Last184,lead984@company34.com,+1-287-307-3281,Company-84,,Manufacturing,Australia,LinkedIn,2024-09-02,,-999,Analytics Module,CONTACTED
+LEAD-00985,First985,Last185,lead985@company35.com,+1-257-656-5382,Company-85,VP Sales,Logistics,United States,Web,2024-10-05,81,4570155,Data Integration Suite,NEW
+LEAD-00986,First986,Last186,lead986@company36.com,+1-723-956-7804,Company-86,VP Sales,Manufacturing,Japan,Referral,2024-03-16,19,,Data Integration Suite,
+LEAD-00987,First987,Last187,lead987@company37.com,+1-493-331-7303,Company-87,CTO,Technology,Canada,Web,2025-05-04,88,-999,Data Integration Suite,QUALIFIED
+LEAD-00988,First988,Last188,lead988@company38.com,+1-278-730-6467,Company-88,VP Sales,Energy,Germany,Email Campaign,2024-08-07,16,3034038,Data Integration Suite,CONVERTED
+LEAD-00989,First989,Last189,lead989@company39.com,+1-385-795-7967,Company-89,CFO,Technology,Australia,Referral,2024-12-04,20,0,Data Integration Suite,QUALIFIED
+LEAD-00990,First990,Last190,INVALID_EMAIL,,Company-90,,Manufacturing,US,Email Campaign,2024-06-12,92,650633,Analytics Module,DISQUALIFIED
+LEAD-00991,First991,Last191,lead991@company41.com,+1-657-838-8838,Company-91,CEO,Finance,Germany,Web,2024-06-14,9,-999,Analytics Module,CONTACTED
+LEAD-00992,First992,Last192,lead992@company42.com,+1-985-494-6777,Company-92,Director IT,Healthcare,Japan,Trade Show,2025-02-10,HIGH,-999,Data Integration Suite,CONTACTED
+LEAD-00993,First993,Last193,lead993@company43.com,+1-869-351-7278,Company-93,Manager,Energy,,Trade Show,2024-10-01,54,-999,Analytics Module,DISQUALIFIED
+LEAD-00994,First994,Last194,lead994@company44.com,+1-285-694-7911,Company-94,CEO,Technology,Canada,LinkedIn,2024-01-02,68,,Analytics Module,NEW
+LEAD-00995,First995,Last195,lead995@company45.com,+1-571-671-8764,Company-95,CFO,Finance,Germany,LinkedIn,2024-08-23,18,934058,Analytics Module,CONVERTED
+LEAD-00996,First996,Last196,lead996@company46.com,+1-631-348-4452,Company-96,VP Sales,Retail,Germany,Referral,2025-01-10,29,,Platform License,
+LEAD-00997,First997,Last197,lead997@company47.com,+1-634-480-1886,Company-97,Director IT,Logistics,usa,Partner,2024-03-21,90,899274,Platform License,CONTACTED
+LEAD-00998,First998,Last198,lead998@company48.com,+1-574-244-2294,Company-98,Manager,Logistics,Japan,Email Campaign,2025-01-26,32,656470,Analytics Module,DISQUALIFIED
+LEAD-00999,First999,Last199,lead999@company49.com,+1-961-243-9641,Company-99,Director IT,Retail,India,Referral,2025-02-04,90,-999,Platform License,QUALIFIED
+LEAD-01000,First1000,Last0,lead1000@company0.com,,Company-0,VP Sales,Retail,United States,Trade Show,3/17/2024,,,Analytics Module,NEW
